@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Step {{ step }} of 5</title>
+    </head>
+<body>
+    <h1>Step {{ step }} - Verify you are Human</h1>
+    <p>What is {{ n1 }} + {{ n2 }}?</p>
+    
+    <form method="POST">
+        <input type="hidden" name="correct" value="{{ correct }}">
+        {% for opt in options %}
+            <button type="submit" name="answer" value="{{ opt }}" onclick="showVideoAd()">{{ opt }}</button>
+        {% endfor %}
+    </form>
+
+    <div id="ad-container">
+        </div>
+
+    <script>
+        function showVideoAd() {
+            // If you have a video ad network, trigger their JS function here
+            console.log("Loading Video Ad...");
+        }
+    </script>
+</body>
+</html>

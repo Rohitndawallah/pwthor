@@ -1,0 +1,70 @@
+{
+    "batches": [
+        {
+            "_id": "662380c33eed1a0018afebc5",
+            "name": "Titan 4.0 (English) 2025",
+            "byName": "Targeted Batch for UPSC Aspirants(Prelims+Mains)",
+            "previewImage": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/40eb745e-7e02-4771-92ab-63c59693382f.png",
+            "language": "English",
+            "exam": "UPSC",
+            "class": "12+",
+            "start_date": "2024-05-12",
+            "end_date": "2026-05-31"
+        },
+        {
+            "_id": "67beb9fc0f67cce58f3de164",
+            "name": "Class 9th PROJECT 45",
+            "byName": "For Class 9th CBSE Students",
+            "previewImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b9fb65f8-35c7-4bb8-815e-a5eb933c6079.PNG",
+            "language": "Hinglish",
+            "exam": "FOUNDATION",
+            "class": "9",
+            "start_date": "2025-12-10",
+            "end_date": "2026-06-30"
+        },
+        {
+            "_id": "693fafdb626a05be66a7edd4",
+            "name": "MISSION 100 NEET 2026",
+            "byName": "For NEET Aspirants",
+            "previewImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/010036a1-2234-4b1e-9535-9519bea29911.png",
+            "language": "Hinglish",
+            "exam": "NEET",
+            "class": "12+",
+            "start_date": "2026-01-04",
+            "end_date": "2026-06-30"
+        },
+        {
+            "_id": "693129e9ca482883d573de14",
+            "name": "Class 11th Project 45",
+            "byName": "For Class 11th Science Students",
+            "previewImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a8b64d75-7cf2-44bc-b2dc-9fa1e8d635af.jpeg",
+            "language": "Hinglish",
+            "exam": "FOUNDATION",
+            "class": "11",
+            "start_date": "2025-12-16",
+            "end_date": "2026-03-31"
+        },
+        {
+            "_id": "67a3095a0ca0d94d9c023bc9",
+            "name": "UDAY 2026 Class 11th Commerce (Aarambh)",
+            "byName": "Targeted Batch for 11th Commerce 2026",
+            "previewImage": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/de01838d-e78c-44db-a8ba-eb198e20d3ce.png",
+            "language": "Hinglish",
+            "exam": "COMMERCE",
+            "class": "11",
+            "start_date": "2025-04-14",
+            "end_date": "2026-03-31"
+        },
+        {
+            "_id": "67a32536374176e6763367ac",
+            "name": "Project 45 Class 12 Commerce Crash course",
+            "byName": "Targeted Batch for CBSE Commerce 2026 Exam",
+            "previewImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/63866764-9aa5-42ee-aaee-9c53cc3cd4a9.png",
+            "language": "Hinglish",
+            "exam": "COMMERCE",
+            "class": "12",
+            "start_date": "2025-11-17",
+            "end_date": "2026-03-31"
+        }
+    ]
+}

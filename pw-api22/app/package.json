@@ -1,0 +1,26 @@
+{
+  "name": "pwthor-api-server",
+  "version": "1.0.0",
+  "description": "API server for PW THOR to manage batches, schedules, and secure video tokens.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cheerio": "^1.0.0-rc.12",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "https-proxy-agent": "^7.0.6",
+    "jose": "^5.4.0",
+    "jsonwebtoken": "^9.0.2",
+    "string-similarity": "^4.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.2"
+  },
+  "engines": {
+    "node": "20.x"
+  }
+}

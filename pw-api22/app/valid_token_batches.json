@@ -1,0 +1,1980 @@
+[
+  {
+    "tokenId": "697db44d1042ce544323c4f6",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2MzcuOTM2LCJkYXRhIjp7Il9pZCI6IjYzOGIwZWU2NDMwNjAwMDBjYzE3NjgxZiIsInVzZXJuYW1lIjoiODM1NDgyMTc3MCIsImZpcnN0TmFtZSI6IkFyeWFuIiwibGFzdE5hbWUiOiJTaW5naCIsIm9yZ2FuaXphdGlvbiI6eyJfaWQiOiI1ZWIzOTNlZTk1ZmFiNzQ2OGE3OWQxODkiLCJ3ZWJzaXRlIjoicGh5c2ljc3dhbGxhaC5jb20iLCJuYW1lIjoiUGh5c2ljc3dhbGxhaCJ9LCJlbWFpbCI6bnVsbCwicm9sZXMiOlsiNWIyN2JkOTY1ODQyZjk1MGE3NzhjNmVmIl0sImNvdW50cnlHcm91cCI6IklOIiwidHlwZSI6IlVTRVIifSwiaWF0IjoxNzY5ODQ1ODM3fQ.0B5xvBL8PIohFM4WNqrNBy9ktDGPOWgcYWK7EorEzaU",
+    "batches": [
+      {
+        "batchId": "67c82dede1e46cc70470a1dd",
+        "name": "\u0917\u0930\u0941\u0921\u093c (Garuna) NEET Series 2025"
+      },
+      {
+        "batchId": "66e2c5b2351f52bed630ef5d",
+        "name": "Backlog Killer Series for Class 12th\u00a0+\u00a0NEET"
+      },
+      {
+        "batchId": "66b72bd5ff8b6500185100c1",
+        "name": "NCERT Line by Line 2025"
+      },
+      {
+        "batchId": "669f83d408536b0018292149",
+        "name": "NEET REVISION EXPRESS"
+      },
+      {
+        "batchId": "624fd5d494de1c0011c3b3a4",
+        "name": "Umeed 2.0"
+      },
+      {
+        "batchId": "6561e71925e823001802517f",
+        "name": "Prachand NEET 2024"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db44eb121d21179718735",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2MzguNDM3LCJkYXRhIjp7Il9pZCI6IjY0YmQyYjJjZTM5NzVlMDAxYTI4MjA3YyIsInVzZXJuYW1lIjoiODg1OTg2OTc1NSIsImZpcnN0TmFtZSI6IlNha2V0IiwibGFzdE5hbWUiOiIiLCJvcmdhbml6YXRpb24iOnsiX2lkIjoiNWViMzkzZWU5NWZhYjc0NjhhNzlkMTg5Iiwid2Vic2l0ZSI6InBoeXNpY3N3YWxsYWguY29tIiwibmFtZSI6IlBoeXNpY3N3YWxsYWgifSwiZW1haWwiOiJpdHNha2V0YmhhZ291cjExQGdtYWlsLmNvbSIsInJvbGVzIjpbIjViMjdiZDk2NTg0MmY5NTBhNzc4YzZlZiJdLCJjb3VudHJ5R3JvdXAiOiJJTiIsInR5cGUiOiJVU0VSIn0sImlhdCI6MTc2OTg0NTgzOH0.YCQxRidq4Bgygf8Pb803rrh9Jj7yNHckTcqShpQ7MzI",
+    "batches": [
+      {
+        "batchId": "690880afa59bfa11fbc5b708",
+        "name": "DWTHE - NDA 2025"
+      },
+      {
+        "batchId": "676d1f795172e3726e1de496",
+        "name": "Lakshya Current Affairs Free Batch"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db44eb121d2117971873e",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2MzguODQ5LCJkYXRhIjp7Il9pZCI6IjYzNDQyYTgzMWUzNGE5MDAxMWIxZmU4NCIsInVzZXJuYW1lIjoiNjM2NzEzNDA2MCIsImZpcnN0TmFtZSI6IkFiaGlzaGVrIiwibGFzdE5hbWUiOiJDaG91ZGhhcnkiLCJvcmdhbml6YXRpb24iOnsiX2lkIjoiNWViMzkzZWU5NWZhYjc0NjhhNzlkMTg5Iiwid2Vic2l0ZSI6InBoeXNpY3N3YWxsYWguY29tIiwibmFtZSI6IlBoeXNpY3N3YWxsYWgifSwiZW1haWwiOiJhYmhpc2hla2Nob3VkaGFyeTc1NjE4QGdtYWlsLmNvbSIsInJvbGVzIjpbIjViMjdiZDk2NTg0MmY5NTBhNzc4YzZlZiIsIjVjYzk1YTJlOGJkZTRkNjZkZTQwMGIzNyJdLCJjb3VudHJ5R3JvdXAiOiJJTiIsInR5cGUiOiJVU0VSIn0sImlhdCI6MTc2OTg0NTgzOH0.6_jyxCa0nsF7njVwYU2ORV9ZEV1r4Gv1OKDG-E0UnDs",
+    "batches": [
+      {
+        "batchId": "67e6d0a1b54fc2ec17a306c9",
+        "name": "PW Shiksha (2025-26)"
+      },
+      {
+        "batchId": "6632168f074c2100180e95a8",
+        "name": "11th & 12th NEET - NCERT Punch"
+      },
+      {
+        "batchId": "6899ebf11b3765b140d2b271",
+        "name": "Vidyapeeth 34-YN341T2 2025"
+      },
+      {
+        "batchId": "68776da6c048d48165fbb22f",
+        "name": "VP MIP (Offline Test + Real Test) Class Dropper NEET 2026"
+      },
+      {
+        "batchId": "66b72bd5ff8b6500185100c1",
+        "name": "NCERT Line by Line 2025"
+      },
+      {
+        "batchId": "67a9ebafd53a55baa9dc9875",
+        "name": "Ummeed NEET 2025"
+      },
+      {
+        "batchId": "67378114c31df6c64863f0ed",
+        "name": "Prachand NEET 2025"
+      },
+      {
+        "batchId": "662808b21ade8f0018fcb884",
+        "name": "NEET Endgame 2024"
+      },
+      {
+        "batchId": "64e4c7307f225d001822de71",
+        "name": "NEET Mind Map"
+      },
+      {
+        "batchId": "65c0d33029e3dd00181b1df9",
+        "name": "UMMEED NEET 2024"
+      },
+      {
+        "batchId": "6561e71925e823001802517f",
+        "name": "Prachand NEET 2024"
+      },
+      {
+        "batchId": "64b7910f6f7a1c0018c94a20",
+        "name": "NCERT Line by Line (YAKEEN YT)"
+      },
+      {
+        "batchId": "63ed31a6f189ac0018436762",
+        "name": "Ummeed 2023"
+      },
+      {
+        "batchId": "624fd5d494de1c0011c3b3a4",
+        "name": "Umeed 2.0"
+      },
+      {
+        "batchId": "6098dae69ca64b0018b1d4a9",
+        "name": "NEET Umeed"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db44fb121d21179718754",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2MzkuMjkzLCJkYXRhIjp7Il9pZCI6IjYzMmFmODFmMmM1ZDg0MDAxODViY2ViMSIsInVzZXJuYW1lIjoiOTY2NzQ4OTczOCIsImZpcnN0TmFtZSI6IkFua3VzaCIsImxhc3ROYW1lIjoiIiwib3JnYW5pemF0aW9uIjp7Il9pZCI6IjVlYjM5M2VlOTVmYWI3NDY4YTc5ZDE4OSIsIndlYnNpdGUiOiJwaHlzaWNzd2FsbGFoLmNvbSIsIm5hbWUiOiJQaHlzaWNzd2FsbGFoIn0sImVtYWlsIjoiIiwicm9sZXMiOlsiNWIyN2JkOTY1ODQyZjk1MGE3NzhjNmVmIl0sImNvdW50cnlHcm91cCI6IklOIiwidHlwZSI6IlVTRVIifSwiaWF0IjoxNzY5ODQ1ODM5fQ.GdJWivyVkdp3iZdnrmohFeb8MXE-Fsjldze4ETRUd8k",
+    "batches": [
+      {
+        "batchId": "67a9ebafd53a55baa9dc9875",
+        "name": "Ummeed NEET 2025"
+      },
+      {
+        "batchId": "669f83d408536b0018292149",
+        "name": "NEET REVISION EXPRESS"
+      },
+      {
+        "batchId": "654b31fd3d24f600180fe031",
+        "name": "MANZIL for JEE 2024"
+      },
+      {
+        "batchId": "65c0d33029e3dd00181b1df9",
+        "name": "UMMEED NEET 2024"
+      },
+      {
+        "batchId": "6561e71925e823001802517f",
+        "name": "Prachand NEET 2024"
+      },
+      {
+        "batchId": "624fd5d494de1c0011c3b3a4",
+        "name": "Umeed 2.0"
+      },
+      {
+        "batchId": "63ed31a6f189ac0018436762",
+        "name": "Ummeed 2023"
+      },
+      {
+        "batchId": "6098dae69ca64b0018b1d4a9",
+        "name": "NEET Umeed"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db44ff71b53e8bdf37012",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2MzkuNjkyLCJkYXRhIjp7Il9pZCI6IjY3ZWNlYjMzM2QyYjI5ZDgyYWUzZmVjOSIsInVzZXJuYW1lIjoiOTg2MDMwODQ2MyIsImZpcnN0TmFtZSI6Ilplbml0c3UiLCJsYXN0TmFtZSI6IkFnYXRzdW1hIiwib3JnYW5pemF0aW9uIjp7Il9pZCI6IjVlYjM5M2VlOTVmYWI3NDY4YTc5ZDE4OSIsIndlYnNpdGUiOiJwaHlzaWNzd2FsbGFoLmNvbSIsIm5hbWUiOiJQaHlzaWNzd2FsbGFoIn0sImVtYWlsIjoibWFuamlyaW1pc2hyYTcxQGdtYWlsLmNvbSIsInJvbGVzIjpbIjViMjdiZDk2NTg0MmY5NTBhNzc4YzZlZiJdLCJjb3VudHJ5R3JvdXAiOiJJTiIsIm9uZVJvbGVzIjpbXSwidHlwZSI6IlVTRVIifSwiaWF0IjoxNzY5ODQ1ODM5fQ.M4RvJAo3AtRt3t__OEEOvJsVrkgnCOxw0wMcPgKY5-Q",
+    "batches": [
+      {
+        "batchId": "6960d1d20549bb69d7d7e872",
+        "name": "11th Jee Restart 2026"
+      },
+      {
+        "batchId": "67e6d0a19a4e85ad57349303",
+        "name": "Pathshala Shiksha (2025-26)"
+      },
+      {
+        "batchId": "65be1f2e68e48a0018d89efd",
+        "name": "11th JEE - NCERT Punch"
+      },
+      {
+        "batchId": "67e8182e3095144d324446dd",
+        "name": "Pathshala AJ41MA 2025"
+      },
+      {
+        "batchId": "6720861b558b222dc48b6b3d",
+        "name": "Vidyapeeth Class 10th Complementary Classes 2025"
+      },
+      {
+        "batchId": "66ec10a7f0799438f250f519",
+        "name": "Pathshala 11th JEE (Target 2027)"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db450f71b53e8bdf37025",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NDAuMTA1LCJkYXRhIjp7Il9pZCI6IjYwNTdmNTYxZjhhYmVjMDEyNDdhNzM3NSIsInVzZXJuYW1lIjoiNzM4ODc2OTQzMSIsImZpcnN0TmFtZSI6IlJvaGl0IiwibGFzdE5hbWUiOiIiLCJvcmdhbml6YXRpb24iOnsiX2lkIjoiNWViMzkzZWU5NWZhYjc0NjhhNzlkMTg5Iiwid2Vic2l0ZSI6InBoeXNpY3N3YWxsYWguY29tIiwibmFtZSI6IlBoeXNpY3N3YWxsYWgifSwiZW1haWwiOiIiLCJyb2xlcyI6WyI1YjI3YmQ5NjU4NDJmOTUwYTc3OGM2ZWYiXSwiY291bnRyeUdyb3VwIjoiSU4iLCJvbmVSb2xlcyI6W10sInR5cGUiOiJVU0VSIn0sImlhdCI6MTc2OTg0NTg0MH0.xGrA8LJU0cqpO_NZnBhxaY59KSQlsNUQ2oYdF1caXPM",
+    "batches": [
+      {
+        "batchId": "654b31fd3d24f600180fe031",
+        "name": "MANZIL for JEE 2024"
+      },
+      {
+        "batchId": "639c56491c02bf01924a0adc",
+        "name": "Manzil Legends-JEE"
+      },
+      {
+        "batchId": "624fd5d494de1c0011c3b3a4",
+        "name": "Umeed 2.0"
+      },
+      {
+        "batchId": "6229aba1c906350011f5b73b",
+        "name": "for JEE Advanced"
+      },
+      {
+        "batchId": "60ad14e75456a90011fdc4ca",
+        "name": "JEE Manzil"
+      },
+      {
+        "batchId": "6098dae69ca64b0018b1d4a9",
+        "name": "NEET Umeed"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db4506503d3be66556460",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NDAuNTMzLCJkYXRhIjp7Il9pZCI6IjY0MDQxNDhiMTJlMGZiMDAxN2U0YTBkNiIsInVzZXJuYW1lIjoiOTMwNzY3OTM5NCIsImZpcnN0TmFtZSI6IlZhaXNobmF2aSBCaG9pIiwibGFzdE5hbWUiOiIiLCJvcmdhbml6YXRpb24iOnsiX2lkIjoiNWViMzkzZWU5NWZhYjc0NjhhNzlkMTg5Iiwid2Vic2l0ZSI6InBoeXNpY3N3YWxsYWguY29tIiwibmFtZSI6IlBoeXNpY3N3YWxsYWgifSwiZW1haWwiOiIiLCJyb2xlcyI6WyI1YjI3YmQ5NjU4NDJmOTUwYTc3OGM2ZWYiXSwiY291bnRyeUdyb3VwIjoiSU4iLCJ0eXBlIjoiVVNFUiJ9LCJpYXQiOjE3Njk4NDU4NDB9.ZQvIzmHLHa7AMHf36UGjXHyjyEXTIX69pLOFgkfWb0E",
+    "batches": [
+      {
+        "batchId": "67ea5c172eec8b4b2f5fe2e6",
+        "name": "ESE General Studies and Engineering Aptitude Crash Course"
+      },
+      {
+        "batchId": "66e3c8ba57a6041894f08639",
+        "name": "BACKLOG KILLER for Class 12th JEE"
+      },
+      {
+        "batchId": "64f6fa519f60f60018516f94",
+        "name": "MPSC Daily Current affairs (DCA) By Idris Pathan Sir"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db4506503d3be66556476",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NDAuOTM5LCJkYXRhIjp7Il9pZCI6IjVmMTdjMThmYTYzZjM3MDA1NDI5NDU5MSIsInVzZXJuYW1lIjoiOTM1MDY2MTkzNiIsImZpcnN0TmFtZSI6IlNvaGl0IGt1bWFyIiwib3JnYW5pemF0aW9uIjp7Il9pZCI6IjVlYjM5M2VlOTVmYWI3NDY4YTc5ZDE4OSIsIndlYnNpdGUiOiJwaHlzaWNzd2FsbGFoLmNvbSIsIm5hbWUiOiJQaHlzaWNzd2FsbGFoIn0sImVtYWlsIjoic29oaXQyMzczQGdtYWlsLmNvbSIsInJvbGVzIjpbIjViMjdiZDk2NTg0MmY5NTBhNzc4YzZlZiJdLCJjb3VudHJ5R3JvdXAiOiJJTiIsInR5cGUiOiJVU0VSIn0sImlhdCI6MTc2OTg0NTg0MH0.ZUhVeIIzoTghsZTJ9FcGonH3BbzsglLlr_UBMWwQcWA",
+    "batches": [
+      {
+        "batchId": "65c0d33029e3dd00181b1df9",
+        "name": "UMMEED NEET 2024"
+      },
+      {
+        "batchId": "64e4c7307f225d001822de71",
+        "name": "NEET Mind Map"
+      },
+      {
+        "batchId": "6561e71925e823001802517f",
+        "name": "Prachand NEET 2024"
+      },
+      {
+        "batchId": "64b7910f6f7a1c0018c94a20",
+        "name": "NCERT Line by Line (YAKEEN YT)"
+      },
+      {
+        "batchId": "63ed31a6f189ac0018436762",
+        "name": "Ummeed 2023"
+      },
+      {
+        "batchId": "6229aba1c906350011f5b73b",
+        "name": "for JEE Advanced"
+      },
+      {
+        "batchId": "624fd5d494de1c0011c3b3a4",
+        "name": "Umeed 2.0"
+      },
+      {
+        "batchId": "60ad14e75456a90011fdc4ca",
+        "name": "JEE Manzil"
+      },
+      {
+        "batchId": "6098dae69ca64b0018b1d4a9",
+        "name": "NEET Umeed"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db451b121d2117971879b",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NDEuMzQ5LCJkYXRhIjp7Il9pZCI6IjYyZmU1OGYwOTQxMTk5MDAxOGM3YzY5MSIsInVzZXJuYW1lIjoiNzAwNzI4Mzk0NCIsImZpcnN0TmFtZSI6IkthbmlzaGthIiwibGFzdE5hbWUiOiJUcml2ZWRpIiwib3JnYW5pemF0aW9uIjp7Il9pZCI6IjVlYjM5M2VlOTVmYWI3NDY4YTc5ZDE4OSIsIndlYnNpdGUiOiJwaHlzaWNzd2FsbGFoLmNvbSIsIm5hbWUiOiJQaHlzaWNzd2FsbGFoIn0sImVtYWlsIjoia2FuaW1vcmlnc2NvYWNoaW5nQGdtYWlsLmNvbSIsInJvbGVzIjpbIjViMjdiZDk2NTg0MmY5NTBhNzc4YzZlZiIsIjVjYzk1YTJlOGJkZTRkNjZkZTQwMGIzNyJdLCJjb3VudHJ5R3JvdXAiOiJJTiIsIm9uZVJvbGVzIjpbXSwidHlwZSI6IlVTRVIifSwiaWF0IjoxNzY5ODQ1ODQxfQ.UPU3LU18H3zI8AjgJ4Ro7SQSSRpcc33GtgTbTKY-7Yw",
+    "batches": [
+      {
+        "batchId": "68da21f60376e06caf37af2b",
+        "name": "Sambhav 2026 Free UPSC series ( Hindi)"
+      },
+      {
+        "batchId": "6229aba1c906350011f5b73b",
+        "name": "for JEE Advanced"
+      },
+      {
+        "batchId": "62f0f4f32da03d0018731052",
+        "name": "Vishwaas 12th Commerce"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db4516503d3be6655649c",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NDEuNzY3LCJkYXRhIjp7Il9pZCI6IjYyOGRlMTY1MmVmNmU4MDAxOTdhOWVmMiIsInVzZXJuYW1lIjoiOTk3MTE4MTMxMiIsImZpcnN0TmFtZSI6Ikt1bWFyIiwibGFzdE5hbWUiOiJTaGFudGFudSIsIm9yZ2FuaXphdGlvbiI6eyJfaWQiOiI1ZWIzOTNlZTk1ZmFiNzQ2OGE3OWQxODkiLCJ3ZWJzaXRlIjoicGh5c2ljc3dhbGxhaC5jb20iLCJuYW1lIjoiUGh5c2ljc3dhbGxhaCJ9LCJlbWFpbCI6IiIsInJvbGVzIjpbIjViMjdiZDk2NTg0MmY5NTBhNzc4YzZlZiJdLCJjb3VudHJ5R3JvdXAiOiJJTiIsIm9uZVJvbGVzIjpbXSwidHlwZSI6IlVTRVIifSwiaWF0IjoxNzY5ODQ1ODQxfQ.eJ9o6MFizwK4bHs_wwV3DGJFalBSpPPZN-ESjWg6ZAQ",
+    "batches": [
+      {
+        "batchId": "695b6fc97db3d9ea05d33b3f",
+        "name": "VIJETA 2026"
+      },
+      {
+        "batchId": "69201461146facec0260841d",
+        "name": "Jee Ultimate Crash Course Reloaded 2026"
+      },
+      {
+        "batchId": "67bebf277f086f1613b70ce0",
+        "name": "12TH BOARD BOOSTER 2026 (Class 12th)"
+      },
+      {
+        "batchId": "67bebdfb1336493ed1d8d7a3",
+        "name": "PARISHRAM RELOADED 2026 (Class 12th)"
+      },
+      {
+        "batchId": "678a39b18809c4305f2bf1a0",
+        "name": "JEE Ultimate Crash Course 2026"
+      },
+      {
+        "batchId": "654b31fd3d24f600180fe031",
+        "name": "MANZIL for JEE 2024"
+      },
+      {
+        "batchId": "67e3a9ef31b071f8e0c6f0fa",
+        "name": "Bridge Course KCET- For PU 2"
+      },
+      {
+        "batchId": "65dc6fbabb55350018d555b7",
+        "name": "Lakshya JEE 2026"
+      },
+      {
+        "batchId": "67e4034dffd269e6d477ddd8",
+        "name": "ARJUNA JEE WEEKEND EXPRESS 2026"
+      },
+      {
+        "batchId": "6789f904f69b15eb632db640",
+        "name": "Lakshya JEE 2.0 2026"
+      },
+      {
+        "batchId": "6774f509fd80ba9fd582cb96",
+        "name": "PARISHRAM 2026 (Class 12th)"
+      },
+      {
+        "batchId": "67825434f7464b67984c0735",
+        "name": "Lakshya JEE AIR O1 (2026) Recorded"
+      },
+      {
+        "batchId": "65d86238cdb6ea00181bdcfe",
+        "name": "Arjuna JEE 2025"
+      },
+      {
+        "batchId": "65ddb1c691431f0018a11f4a",
+        "name": "Arjuna JEE 2.0 2025"
+      },
+      {
+        "batchId": "6789f905bafc44e374f4c081",
+        "name": "Lakshya JEE 3.0 2026"
+      },
+      {
+        "batchId": "67d16f420742bf12fdf199c0",
+        "name": "JEE Bridge Course 2026"
+      },
+      {
+        "batchId": "66d1f22e920a7900189c7c56",
+        "name": "NEET Mind Map 2025"
+      },
+      {
+        "batchId": "67378114c31df6c64863f0ed",
+        "name": "Prachand NEET 2025"
+      },
+      {
+        "batchId": "671f5ea96059088394262c30",
+        "name": "Manzil JEE 2025"
+      },
+      {
+        "batchId": "66d1558f496b720018001fef",
+        "name": "JEE Mind Map Series"
+      },
+      {
+        "batchId": "66a4c326f2c8470018eab175",
+        "name": "JEE Revision Express"
+      },
+      {
+        "batchId": "64e4c7307f225d001822de71",
+        "name": "NEET Mind Map"
+      },
+      {
+        "batchId": "64e4c8338149b2001892a969",
+        "name": "JEE Mindmap"
+      },
+      {
+        "batchId": "65d8a02173443900186869b2",
+        "name": "Uday 2025"
+      },
+      {
+        "batchId": "64b7910f6f7a1c0018c94a20",
+        "name": "NCERT Line by Line (YAKEEN YT)"
+      },
+      {
+        "batchId": "639c56491c02bf01924a0adc",
+        "name": "Manzil Legends-JEE"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db4526503d3be665564b2",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NDIuMTc4LCJkYXRhIjp7Il9pZCI6IjVlY2QzOTc3YjU4NWYxMjUyZTc5YTJlMyIsInVzZXJuYW1lIjoiODQ1OTgzODk4OCIsImZpcnN0TmFtZSI6Ik1vaGl0IiwibGFzdE5hbWUiOiJEb250aHVsYSIsIm9yZ2FuaXphdGlvbiI6eyJfaWQiOiI1ZWIzOTNlZTk1ZmFiNzQ2OGE3OWQxODkiLCJ3ZWJzaXRlIjoicGh5c2ljc3dhbGxhaC5jb20iLCJuYW1lIjoiUGh5c2ljc3dhbGxhaCJ9LCJlbWFpbCI6Im1vaGl0ZG9udGh1bGExQGdtYWlsLmNvbSIsInJvbGVzIjpbIjViMjdiZDk2NTg0MmY5NTBhNzc4YzZlZiJdLCJjb3VudHJ5R3JvdXAiOiJJTiIsIm9uZVJvbGVzIjpbXSwidHlwZSI6IlVTRVIifSwiaWF0IjoxNzY5ODQ1ODQyfQ.57JICk1cfj8YeSvjDIJEem9Gci2qvBwn375V8Wa6cvo",
+    "batches": []
+  },
+  {
+    "tokenId": "697db452bc35a212c6560060",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NDIuNzMxLCJkYXRhIjp7Il9pZCI6IjYwMDJlNzQ1NmM1ZTRiMDA5MjI4ZWIxZCIsInVzZXJuYW1lIjoiNzQzOTc2Mzg2MCIsImZpcnN0TmFtZSI6IlJhaiIsImxhc3ROYW1lIjoiS3VtYXIgRGFzIiwib3JnYW5pemF0aW9uIjp7Il9pZCI6IjVlYjM5M2VlOTVmYWI3NDY4YTc5ZDE4OSIsIndlYnNpdGUiOiJwaHlzaWNzd2FsbGFoLmNvbSIsIm5hbWUiOiJQaHlzaWNzd2FsbGFoIn0sImVtYWlsIjoiIiwicm9sZXMiOlsiNWIyN2JkOTY1ODQyZjk1MGE3NzhjNmVmIl0sImNvdW50cnlHcm91cCI6IklOIiwidHlwZSI6IlVTRVIifSwiaWF0IjoxNzY5ODQ1ODQyfQ.1bljyfURffCgkRHF0FT0dpzWqEjruF2pEM8IU-xEkPE",
+    "batches": [
+      {
+        "batchId": "639c56491c02bf01924a0adc",
+        "name": "Manzil Legends-JEE"
+      },
+      {
+        "batchId": "6229aba1c906350011f5b73b",
+        "name": "for JEE Advanced"
+      },
+      {
+        "batchId": "60ad14e75456a90011fdc4ca",
+        "name": "JEE Manzil"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db453f71b53e8bdf370a6",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NDMuMjAyLCJkYXRhIjp7Il9pZCI6IjYyYmI2MjRlYWZmN2M3MDAxOGQ3YmJhYiIsInVzZXJuYW1lIjoiODEwOTg5NzY5MCIsImZpcnN0TmFtZSI6IkVzbWF0IiwibGFzdE5hbWUiOiJKYWhhbiIsIm9yZ2FuaXphdGlvbiI6eyJfaWQiOiI1ZWIzOTNlZTk1ZmFiNzQ2OGE3OWQxODkiLCJ3ZWJzaXRlIjoicGh5c2ljc3dhbGxhaC5jb20iLCJuYW1lIjoiUGh5c2ljc3dhbGxhaCJ9LCJlbWFpbCI6ImVzbWF0azY3OEBnbWFpbC5jb20iLCJyb2xlcyI6WyI1YjI3YmQ5NjU4NDJmOTUwYTc3OGM2ZWYiXSwiY291bnRyeUdyb3VwIjoiSU4iLCJvbmVSb2xlcyI6W10sInR5cGUiOiJVU0VSIn0sImlhdCI6MTc2OTg0NTg0M30.LYCGvSE3vb8y2VBN4MkCG6uRrLIOT2PWSLUWIpLS-Nk",
+    "batches": [
+      {
+        "batchId": "67e3f9a39a990cae204aa54d",
+        "name": "Career Mahakumbh (UG)"
+      },
+      {
+        "batchId": "671f5ea96059088394262c30",
+        "name": "Manzil JEE 2025"
+      },
+      {
+        "batchId": "66a4c326f2c8470018eab175",
+        "name": "JEE Revision Express"
+      },
+      {
+        "batchId": "67a9ebafd53a55baa9dc9875",
+        "name": "Ummeed NEET 2025"
+      },
+      {
+        "batchId": "662808b21ade8f0018fcb884",
+        "name": "NEET Endgame 2024"
+      },
+      {
+        "batchId": "67378114c31df6c64863f0ed",
+        "name": "Prachand NEET 2025"
+      },
+      {
+        "batchId": "65c0d33029e3dd00181b1df9",
+        "name": "UMMEED NEET 2024"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db453b121d21179718810",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NDMuNjI3LCJkYXRhIjp7Il9pZCI6IjYzYmUzMThiOTY1MTE1MDAxODk0MGZhMyIsInVzZXJuYW1lIjoiNzA3MzI3NTYwNSIsImZpcnN0TmFtZSI6IlRoZSIsImxhc3ROYW1lIjoiRGsgU2hhcm1hIiwib3JnYW5pemF0aW9uIjp7Il9pZCI6IjVlYjM5M2VlOTVmYWI3NDY4YTc5ZDE4OSIsIndlYnNpdGUiOiJwaHlzaWNzd2FsbGFoLmNvbSIsIm5hbWUiOiJQaHlzaWNzd2FsbGFoIn0sImVtYWlsIjoiZGtzaGFybWFiYW5kaWt1aUBnbWFpbC5jb20iLCJyb2xlcyI6WyI1YjI3YmQ5NjU4NDJmOTUwYTc3OGM2ZWYiXSwiY291bnRyeUdyb3VwIjoiSU4iLCJvbmVSb2xlcyI6W10sInR5cGUiOiJVU0VSIn0sImlhdCI6MTc2OTg0NTg0M30.81_JeKyuZTVlI5oTVz7-XAn9TTqMiik7kJd_TosGyb8",
+    "batches": [
+      {
+        "batchId": "6863de7e074d1ed909fa1d72",
+        "name": "UPSC NCERT Wallah Series (In English)"
+      },
+      {
+        "batchId": "6880ace84a84780ab9339afb",
+        "name": "Daily Current Affairs by Aasim Sir"
+      },
+      {
+        "batchId": "686657d91952d222d7feac9a",
+        "name": "All India Test Series - Banking Exams (FREE Batch)"
+      },
+      {
+        "batchId": "67f81523c0812cd84bb7c655",
+        "name": "Agri Sankalp Free Batch"
+      },
+      {
+        "batchId": "64366e961671950018d93b3d",
+        "name": "UPSC CSE TOPPER STRATEGY SESSIONS"
+      },
+      {
+        "batchId": "6544ab967cd3720018bd5a0d",
+        "name": "PW ONLYIAS Monthly Current Affairs Magazine Essay Contest"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db4542947ec04b7d68763",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NDQuMDUxLCJkYXRhIjp7Il9pZCI6IjY1ZjE3MWNiNWQ1ODhjMDAxOGJiZjllMSIsInVzZXJuYW1lIjoiOTgzNjY0MDYwNSIsImZpcnN0TmFtZSI6IkNoaXJhZyIsImxhc3ROYW1lIjoiUGFuZGl0Iiwib3JnYW5pemF0aW9uIjp7Il9pZCI6IjVlYjM5M2VlOTVmYWI3NDY4YTc5ZDE4OSIsIndlYnNpdGUiOiJwaHlzaWNzd2FsbGFoLmNvbSIsIm5hbWUiOiJQaHlzaWNzd2FsbGFoIn0sImVtYWlsIjoiY3AxMTI1NDdAZ21haWwuY29tIiwicm9sZXMiOlsiNWIyN2JkOTY1ODQyZjk1MGE3NzhjNmVmIl0sImNvdW50cnlHcm91cCI6IklOIiwidHlwZSI6IlVTRVIifSwiaWF0IjoxNzY5ODQ1ODQ0fQ.sLdG21_Ey4p262IyDuvZOsbB6Nac-PUmXwLJ4G1ACuA",
+    "batches": [
+      {
+        "batchId": "65dedd733a57db0018ddd58e",
+        "name": "Arjuna JEE 4.0 2025"
+      },
+      {
+        "batchId": "6692357d2c88ad001824129d",
+        "name": "Arjuna JEE AIR 2026 Recorded"
+      },
+      {
+        "batchId": "65dedbbd16156900189fdeec",
+        "name": "Arjuna JEE 3.0 2025"
+      },
+      {
+        "batchId": "661a721731ef700018e5d1a9",
+        "name": "Rajwant Sir Special"
+      },
+      {
+        "batchId": "65ddb1c691431f0018a11f4a",
+        "name": "Arjuna JEE 2.0 2025"
+      },
+      {
+        "batchId": "65d86238cdb6ea00181bdcfe",
+        "name": "Arjuna JEE 2025"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db454b121d21179718846",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NDQuNDY0LCJkYXRhIjp7Il9pZCI6IjYxM2M2OWEzMWUzMTJhMDAxMTY0NDNmZCIsInVzZXJuYW1lIjoiOTA0NTMzODIwOCIsImZpcnN0TmFtZSI6IktBVklUQURoeWFuaSIsImxhc3ROYW1lIjoiIiwib3JnYW5pemF0aW9uIjp7Il9pZCI6IjVlYjM5M2VlOTVmYWI3NDY4YTc5ZDE4OSIsIndlYnNpdGUiOiJwaHlzaWNzd2FsbGFoLmNvbSIsIm5hbWUiOiJQaHlzaWNzd2FsbGFoIn0sImVtYWlsIjoia2F2aXRhZGh5YW5pNDMyQGdtYWlsLmNvbSIsInJvbGVzIjpbIjViMjdiZDk2NTg0MmY5NTBhNzc4YzZlZiJdLCJjb3VudHJ5R3JvdXAiOiJJTiIsInR5cGUiOiJVU0VSIn0sImlhdCI6MTc2OTg0NTg0NH0.zemHixDTTpEWO6q6NcSjWHh4_XMj2nIBcQpzTa0FnhY",
+    "batches": [
+      {
+        "batchId": "64366e961671950018d93b3d",
+        "name": "UPSC CSE TOPPER STRATEGY SESSIONS"
+      },
+      {
+        "batchId": "60ad14e75456a90011fdc4ca",
+        "name": "JEE Manzil"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db4542947ec04b7d68794",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NDQuODg1LCJkYXRhIjp7Il9pZCI6IjYzMGM2YTY5MWJmMGY3MDAxODMwOTAzMyIsInVzZXJuYW1lIjoiOTAyNjQ3MjI5MCIsImZpcnN0TmFtZSI6IlByYXRoYW0iLCJsYXN0TmFtZSI6IiIsIm9yZ2FuaXphdGlvbiI6eyJfaWQiOiI1ZWIzOTNlZTk1ZmFiNzQ2OGE3OWQxODkiLCJ3ZWJzaXRlIjoicGh5c2ljc3dhbGxhaC5jb20iLCJuYW1lIjoiUGh5c2ljc3dhbGxhaCJ9LCJyb2xlcyI6WyI1YjI3YmQ5NjU4NDJmOTUwYTc3OGM2ZWYiXSwiY291bnRyeUdyb3VwIjoiSU4iLCJvbmVSb2xlcyI6W10sInR5cGUiOiJVU0VSIn0sImlhdCI6MTc2OTg0NTg0NH0.e_Y6y0VhzlbHPNRGoZ9SoNAeL0u62JIqygifeTQjdWs",
+    "batches": [
+      {
+        "batchId": "6953dfefc1075e189922b390",
+        "name": "Endgame - Class 10th"
+      },
+      {
+        "batchId": "67e28af567f007388349fe2f",
+        "name": "Power SAT - Class 10th CBSE"
+      },
+      {
+        "batchId": "6616d17b18b06f0018bba7a4",
+        "name": "Kannada 10th to 11th Bridge Course"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db455f71b53e8bdf37117",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NDUuMjk0LCJkYXRhIjp7Il9pZCI6IjY2NTE5NmQzMTY4NDc1NzU5MTY1YThmYyIsInVzZXJuYW1lIjoiODY5NTE4NjAyNiIsImZpcnN0TmFtZSI6IkhhbWlkdW4iLCJsYXN0TmFtZSI6IktoYXR1biIsIm9yZ2FuaXphdGlvbiI6eyJfaWQiOiI1ZWIzOTNlZTk1ZmFiNzQ2OGE3OWQxODkiLCJ3ZWJzaXRlIjoicGh5c2ljc3dhbGxhaC5jb20iLCJuYW1lIjoiUGh5c2ljc3dhbGxhaCJ9LCJlbWFpbCI6InNrNDY4NDkzMEBnbWFpbC5jb20iLCJyb2xlcyI6WyI1YjI3YmQ5NjU4NDJmOTUwYTc3OGM2ZWYiXSwiY291bnRyeUdyb3VwIjoiSU4iLCJvbmVSb2xlcyI6W10sInR5cGUiOiJVU0VSIn0sImlhdCI6MTc2OTg0NTg0NX0.FvbVKoGV66A4wjkneaeUwaADS896kXTYQM_BMHXTA14",
+    "batches": [
+      {
+        "batchId": "66d1f22e920a7900189c7c56",
+        "name": "NEET Mind Map 2025"
+      },
+      {
+        "batchId": "63ed31a6f189ac0018436762",
+        "name": "Ummeed 2023"
+      },
+      {
+        "batchId": "624fd5d494de1c0011c3b3a4",
+        "name": "Umeed 2.0"
+      },
+      {
+        "batchId": "67c82dede1e46cc70470a1dd",
+        "name": "\u0917\u0930\u0941\u0921\u093c (Garuna) NEET Series 2025"
+      },
+      {
+        "batchId": "66b72bd5ff8b6500185100c1",
+        "name": "NCERT Line by Line 2025"
+      },
+      {
+        "batchId": "67a9ebafd53a55baa9dc9875",
+        "name": "Ummeed NEET 2025"
+      },
+      {
+        "batchId": "67378114c31df6c64863f0ed",
+        "name": "Prachand NEET 2025"
+      },
+      {
+        "batchId": "669f83d408536b0018292149",
+        "name": "NEET REVISION EXPRESS"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db455ea5167cbe4be4016",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NDUuNjg4LCJkYXRhIjp7Il9pZCI6IjYyN2IzNDA0YTRiZjgwMDAxYTgwNDIwMiIsInVzZXJuYW1lIjoiOTc5MzcyMTQxNSIsImZpcnN0TmFtZSI6IkFuYW5kIiwibGFzdE5hbWUiOiJDaGF1ZGhhcnkiLCJvcmdhbml6YXRpb24iOnsiX2lkIjoiNWViMzkzZWU5NWZhYjc0NjhhNzlkMTg5Iiwid2Vic2l0ZSI6InBoeXNpY3N3YWxsYWguY29tIiwibmFtZSI6IlBoeXNpY3N3YWxsYWgifSwiZW1haWwiOiJhY2hhdWRoYXJ5NDc0M0BnbWFpbC5jb20iLCJyb2xlcyI6WyI1YjI3YmQ5NjU4NDJmOTUwYTc3OGM2ZWYiXSwiY291bnRyeUdyb3VwIjoiSU4iLCJvbmVSb2xlcyI6W10sInR5cGUiOiJVU0VSIn0sImlhdCI6MTc2OTg0NTg0NX0.teqB8nh8gHSBBxrqu-13LOU2fehrIKubleO3170H2fg",
+    "batches": [
+      {
+        "batchId": "64b7910f6f7a1c0018c94a20",
+        "name": "NCERT Line by Line (YAKEEN YT)"
+      },
+      {
+        "batchId": "6412a4610dde1d00187a8635",
+        "name": "Ummeed Hindi"
+      },
+      {
+        "batchId": "63ed31a6f189ac0018436762",
+        "name": "Ummeed 2023"
+      },
+      {
+        "batchId": "62f914f4edfd92001ca106a2",
+        "name": "Eklavya Telugu"
+      },
+      {
+        "batchId": "6098dae69ca64b0018b1d4a9",
+        "name": "NEET Umeed"
+      },
+      {
+        "batchId": "624fd5d494de1c0011c3b3a4",
+        "name": "Umeed 2.0"
+      },
+      {
+        "batchId": "6229aba1c906350011f5b73b",
+        "name": "for JEE Advanced"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db456cab70f4b4d971ef3",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NDYuMTIyLCJkYXRhIjp7Il9pZCI6IjYyYzQwMGM3OTQ1OTM2MDAxMWUwN2MyZCIsInVzZXJuYW1lIjoiODEyNjkwMTQwMSIsImZpcnN0TmFtZSI6IlNoaXZhbnNoIiwibGFzdE5hbWUiOiJTYWhuaSIsIm9yZ2FuaXphdGlvbiI6eyJfaWQiOiI1ZWIzOTNlZTk1ZmFiNzQ2OGE3OWQxODkiLCJ3ZWJzaXRlIjoicGh5c2ljc3dhbGxhaC5jb20iLCJuYW1lIjoiUGh5c2ljc3dhbGxhaCJ9LCJlbWFpbCI6InNoaXZhbnNoc2Fobmk3OUBnbWFpbC5jb20iLCJyb2xlcyI6WyI1YjI3YmQ5NjU4NDJmOTUwYTc3OGM2ZWYiLCI1Y2M5NWEyZThiZGU0ZDY2ZGU0MDBiMzciXSwiY291bnRyeUdyb3VwIjoiSU4iLCJ0eXBlIjoiVVNFUiJ9LCJpYXQiOjE3Njk4NDU4NDZ9.rvBk8rVdDzbnhmvHY6ACkFiz9XIsXLnR5fnReO6BkKM",
+    "batches": [
+      {
+        "batchId": "66703919adbaad001878b1a3",
+        "name": "PACE Class 11th Commerce 2025"
+      },
+      {
+        "batchId": "637cb96db3555c00ef2665a3",
+        "name": "Pace Commerce"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db4566503d3be6655659e",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NDYuNTM0LCJkYXRhIjp7Il9pZCI6IjYwOTRkYzM0NDZhMDU1MDAxMWY2YWZkZCIsInVzZXJuYW1lIjoiOTY5Mzc3MTgxNCIsImZpcnN0TmFtZSI6Ik1hbmlzaCIsImxhc3ROYW1lIjoiTWlzaHJhIiwib3JnYW5pemF0aW9uIjp7Il9pZCI6IjVlYjM5M2VlOTVmYWI3NDY4YTc5ZDE4OSIsIndlYnNpdGUiOiJwaHlzaWNzd2FsbGFoLmNvbSIsIm5hbWUiOiJQaHlzaWNzd2FsbGFoIn0sImVtYWlsIjoid3d3Lm1pc2hyYW1hbmlzaDEyMzRAZ21haWwuY29tIiwicm9sZXMiOlsiNWIyN2JkOTY1ODQyZjk1MGE3NzhjNmVmIl0sImNvdW50cnlHcm91cCI6IklOIiwidHlwZSI6IlVTRVIifSwiaWF0IjoxNzY5ODQ1ODQ2fQ.5GAKlFQAdEndME-UHyzpQ6qdUtGFPzaG03Dn1VRQMN4",
+    "batches": [
+      {
+        "batchId": "60ad14e75456a90011fdc4ca",
+        "name": "JEE Manzil"
+      },
+      {
+        "batchId": "6098dae69ca64b0018b1d4a9",
+        "name": "NEET Umeed"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db456f71b53e8bdf37165",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NDYuOTQyLCJkYXRhIjp7Il9pZCI6IjY0MmQ4NDc5NjI4NjJkMDAxODQ0N2VhMyIsInVzZXJuYW1lIjoiNjM3Nzk0NjgyNSIsImZpcnN0TmFtZSI6IlNob2JpayIsImxhc3ROYW1lIjoiIiwib3JnYW5pemF0aW9uIjp7Il9pZCI6IjVlYjM5M2VlOTVmYWI3NDY4YTc5ZDE4OSIsIndlYnNpdGUiOiJwaHlzaWNzd2FsbGFoLmNvbSIsIm5hbWUiOiJQaHlzaWNzd2FsbGFoIn0sImVtYWlsIjoicmVraGFzaGFybWExMzAzQGdtYWlsLmNvbSIsInJvbGVzIjpbIjViMjdiZDk2NTg0MmY5NTBhNzc4YzZlZiJdLCJjb3VudHJ5R3JvdXAiOiJJTiIsInR5cGUiOiJVU0VSIn0sImp0aSI6IkkwenliNnBVUVFxZ19BSWttbTdwc3dfNjQyZDg0Nzk2Mjg2MmQwMDE4NDQ3ZWEzIiwiaWF0IjoxNzY5ODQ1ODQ2fQ.t-hNTgsh91umtywne8oNmFA8oE3QoGjxmAv9Jjq0s1s",
+    "batches": [
+      {
+        "batchId": "67d95cff766bddc008bb4356",
+        "name": "11th to 12th Bridge Course 2026 (Science)"
+      },
+      {
+        "batchId": "6741b10b343569be54c5b24e",
+        "name": "Warrior 2025"
+      },
+      {
+        "batchId": "67878742d7196ec0edbb6344",
+        "name": "Alakh Pandey - Class 10th Batch"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db457ea5167cbe4be4048",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NDcuMzc2LCJkYXRhIjp7Il9pZCI6IjYyZjM5N2E5MzY5NjQxMDAxMWFkYjFjNCIsInVzZXJuYW1lIjoiNzQwOTc5MjY3NiIsImZpcnN0TmFtZSI6IlZpc2hlc2giLCJsYXN0TmFtZSI6IlNoYWt5YSIsIm9yZ2FuaXphdGlvbiI6eyJfaWQiOiI1ZWIzOTNlZTk1ZmFiNzQ2OGE3OWQxODkiLCJ3ZWJzaXRlIjoicGh5c2ljc3dhbGxhaC5jb20iLCJuYW1lIjoiUGh5c2ljc3dhbGxhaCJ9LCJlbWFpbCI6InNoYWt5YXZpc2hlc2g5NzJAZ21haWwuY29tIiwicm9sZXMiOlsiNWIyN2JkOTY1ODQyZjk1MGE3NzhjNmVmIl0sImNvdW50cnlHcm91cCI6IklOIiwib25lUm9sZXMiOltdLCJ0eXBlIjoiVVNFUiJ9LCJpYXQiOjE3Njk4NDU4NDd9.iPIZwhYPR4qnWQxJA9rU1CPMOfYjv9Z259I5NKBMaK0",
+    "batches": [
+      {
+        "batchId": "67a9ebafd53a55baa9dc9875",
+        "name": "Ummeed NEET 2025"
+      },
+      {
+        "batchId": "671f5ea96059088394262c30",
+        "name": "Manzil JEE 2025"
+      },
+      {
+        "batchId": "67378114c31df6c64863f0ed",
+        "name": "Prachand NEET 2025"
+      },
+      {
+        "batchId": "66b72bd5ff8b6500185100c1",
+        "name": "NCERT Line by Line 2025"
+      },
+      {
+        "batchId": "66d1f22e920a7900189c7c56",
+        "name": "NEET Mind Map 2025"
+      },
+      {
+        "batchId": "662808b21ade8f0018fcb884",
+        "name": "NEET Endgame 2024"
+      },
+      {
+        "batchId": "6561e71925e823001802517f",
+        "name": "Prachand NEET 2024"
+      },
+      {
+        "batchId": "64e4c7307f225d001822de71",
+        "name": "NEET Mind Map"
+      },
+      {
+        "batchId": "6098dae69ca64b0018b1d4a9",
+        "name": "NEET Umeed"
+      },
+      {
+        "batchId": "64b7910f6f7a1c0018c94a20",
+        "name": "NCERT Line by Line (YAKEEN YT)"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db457ea5167cbe4be4056",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NDcuODIyLCJkYXRhIjp7Il9pZCI6IjY0YzliYzkxOWRmNWRjMDAxOGI4OGE0YSIsInVzZXJuYW1lIjoiODk0OTg4MTMyOCIsImZpcnN0TmFtZSI6IlN1bWl0IiwibGFzdE5hbWUiOiJOYWdhcndhbCIsIm9yZ2FuaXphdGlvbiI6eyJfaWQiOiI1ZWIzOTNlZTk1ZmFiNzQ2OGE3OWQxODkiLCJ3ZWJzaXRlIjoicGh5c2ljc3dhbGxhaC5jb20iLCJuYW1lIjoiUGh5c2ljc3dhbGxhaCJ9LCJlbWFpbCI6Imt1bWFyc3VtaXQ1MjYyMkBnbWFpbC5jb20iLCJyb2xlcyI6WyI1YjI3YmQ5NjU4NDJmOTUwYTc3OGM2ZWYiXSwiY291bnRyeUdyb3VwIjoiSU4iLCJvbmVSb2xlcyI6W10sInR5cGUiOiJVU0VSIn0sImlhdCI6MTc2OTg0NTg0N30.Kb2yUY4qB3c3hW6trFUDM8xWmIVqSfR6lWClnTTeo34",
+    "batches": []
+  },
+  {
+    "tokenId": "697db458b121d211797188cb",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NDguMjQ4LCJkYXRhIjp7Il9pZCI6IjYwODJjMWRiZTgxNmJjMDAzNTY5MGQxYyIsInVzZXJuYW1lIjoiOTAyNzE4ODQ1OCIsImZpcnN0TmFtZSI6IkRlZXBhayIsImxhc3ROYW1lIjoiIiwib3JnYW5pemF0aW9uIjp7Il9pZCI6IjVlYjM5M2VlOTVmYWI3NDY4YTc5ZDE4OSIsIndlYnNpdGUiOiJwaHlzaWNzd2FsbGFoLmNvbSIsIm5hbWUiOiJQaHlzaWNzd2FsbGFoIn0sImVtYWlsIjoic2FubmlkaHlhdG9tYXIwQGdtYWlsLmNvbSIsInJvbGVzIjpbIjViMjdiZDk2NTg0MmY5NTBhNzc4YzZlZiJdLCJjb3VudHJ5R3JvdXAiOiJJTiIsIm9uZVJvbGVzIjpbXSwidHlwZSI6IlVTRVIifSwiaWF0IjoxNzY5ODQ1ODQ4fQ.t1QIU8nnFwkPYQs3eK0XdRCcdnOEnVnEJAgfyV4mkvE",
+    "batches": []
+  },
+  {
+    "tokenId": "697db458f71b53e8bdf371bc",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NDguNjczLCJkYXRhIjp7Il9pZCI6IjYzYjZjMGY4ZGY2ZWFhMDAxOGJiZTcyNyIsInVzZXJuYW1lIjoiODc1NTgzMTU2NCIsImZpcnN0TmFtZSI6IkFkaXR5YSIsImxhc3ROYW1lIjoiS3VtYXIiLCJvcmdhbml6YXRpb24iOnsiX2lkIjoiNWViMzkzZWU5NWZhYjc0NjhhNzlkMTg5Iiwid2Vic2l0ZSI6InBoeXNpY3N3YWxsYWguY29tIiwibmFtZSI6IlBoeXNpY3N3YWxsYWgifSwiZW1haWwiOiJrdW1hcmFkaXR5YTIxOTY2QGdtYWlsLmNvbSIsInJvbGVzIjpbIjViMjdiZDk2NTg0MmY5NTBhNzc4YzZlZiJdLCJjb3VudHJ5R3JvdXAiOiJJTiIsIm9uZVJvbGVzIjpbXSwidHlwZSI6IlVTRVIifSwiaWF0IjoxNzY5ODQ1ODQ4fQ.E-uyDiyH3fBCx2f6VUJvsPrY5Rd85lA-8sJsBdKKsrU",
+    "batches": [
+      {
+        "batchId": "662808b21ade8f0018fcb884",
+        "name": "NEET Endgame 2024"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db459ea5167cbe4be40a5",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NDkuMDk1LCJkYXRhIjp7Il9pZCI6IjY0ZjliNTQ2MGY5MjVjMDAxODI3ZmUxNyIsInVzZXJuYW1lIjoiOTA1Njg4NTQyNCIsImZpcnN0TmFtZSI6IlBhcnZlZW4gS2F1ciIsImxhc3ROYW1lIjoiIiwib3JnYW5pemF0aW9uIjp7Il9pZCI6IjVlYjM5M2VlOTVmYWI3NDY4YTc5ZDE4OSIsIndlYnNpdGUiOiJwaHlzaWNzd2FsbGFoLmNvbSIsIm5hbWUiOiJQaHlzaWNzd2FsbGFoIn0sImVtYWlsIjoicGFya2F1ckBnbWFpbC5jb20iLCJyb2xlcyI6WyI1YjI3YmQ5NjU4NDJmOTUwYTc3OGM2ZWYiXSwiY291bnRyeUdyb3VwIjoiSU4iLCJ0eXBlIjoiVVNFUiJ9LCJpYXQiOjE3Njk4NDU4NDl9.BKchoZynPvc6Bhb_EVs1QJ2B3Lz2gsJmVO5YOaNyZQY",
+    "batches": []
+  },
+  {
+    "tokenId": "697db459b121d211797188fe",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NDkuNTEsImRhdGEiOnsiX2lkIjoiNjRjZjY3MTA3ZmU3ZGYwMDE4NTFiNDk5IiwidXNlcm5hbWUiOiI5OTE3NjUyMjY3IiwiZmlyc3ROYW1lIjoicGF2bmkiLCJsYXN0TmFtZSI6IlRpd2FyaSIsIm9yZ2FuaXphdGlvbiI6eyJfaWQiOiI1ZWIzOTNlZTk1ZmFiNzQ2OGE3OWQxODkiLCJ3ZWJzaXRlIjoicGh5c2ljc3dhbGxhaC5jb20iLCJuYW1lIjoiUGh5c2ljc3dhbGxhaCJ9LCJlbWFpbCI6bnVsbCwicm9sZXMiOlsiNWIyN2JkOTY1ODQyZjk1MGE3NzhjNmVmIl0sImNvdW50cnlHcm91cCI6IklOIiwidHlwZSI6IlVTRVIifSwiaWF0IjoxNzY5ODQ1ODQ5fQ.H7oTPEgSj-mWbBZ8iGDmZTN8BNb4vn-ARMsfBEMw9XI",
+    "batches": []
+  },
+  {
+    "tokenId": "697db45a6503d3be66556641",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NTAuMjc1LCJkYXRhIjp7Il9pZCI6IjYyYTRiZjZmOTUzM2EyMDAxODg1MWEyZiIsInVzZXJuYW1lIjoiNzQ2MTkyOTcxNyIsImZpcnN0TmFtZSI6IkFtaXQiLCJsYXN0TmFtZSI6IlBhdGVsIiwib3JnYW5pemF0aW9uIjp7Il9pZCI6IjVlYjM5M2VlOTVmYWI3NDY4YTc5ZDE4OSIsIndlYnNpdGUiOiJwaHlzaWNzd2FsbGFoLmNvbSIsIm5hbWUiOiJQaHlzaWNzd2FsbGFoIn0sImVtYWlsIjoiYW1pdHBhdGVsNzQ2MTkyQGdtYWlsLmNvbSIsInJvbGVzIjpbIjViMjdiZDk2NTg0MmY5NTBhNzc4YzZlZiJdLCJjb3VudHJ5R3JvdXAiOiJJTiIsInR5cGUiOiJVU0VSIn0sImlhdCI6MTc2OTg0NTg1MH0.w0y2qdrBQarsfq_GZ8nZzc84a-Y17Vaqvo8j7DeibLk",
+    "batches": [
+      {
+        "batchId": "695df9383b1a1c1fe03402d3",
+        "name": "FATEH 2026"
+      },
+      {
+        "batchId": "68e656e433cc255296c72d19",
+        "name": "Complete ZOOLOGY by Samapti Mam"
+      },
+      {
+        "batchId": "68a40738814b41777ed6f427",
+        "name": "Class 11th Half Yearly Marathon 2026"
+      },
+      {
+        "batchId": "68b82cae3b7d72a802e22c40",
+        "name": "NEET Painkiller 2026"
+      },
+      {
+        "batchId": "67d176ec7af13dc76dfe5d0a",
+        "name": "NEET Bridge Course 2026"
+      },
+      {
+        "batchId": "67c82dede1e46cc70470a1dd",
+        "name": "\u0917\u0930\u0941\u0921\u093c (Garuna) NEET Series 2025"
+      },
+      {
+        "batchId": "67a9ebafd53a55baa9dc9875",
+        "name": "Ummeed NEET 2025"
+      },
+      {
+        "batchId": "67378114c31df6c64863f0ed",
+        "name": "Prachand NEET 2025"
+      },
+      {
+        "batchId": "662808b21ade8f0018fcb884",
+        "name": "NEET Endgame 2024"
+      },
+      {
+        "batchId": "65c0d33029e3dd00181b1df9",
+        "name": "UMMEED NEET 2024"
+      },
+      {
+        "batchId": "6561e71925e823001802517f",
+        "name": "Prachand NEET 2024"
+      },
+      {
+        "batchId": "64b7910f6f7a1c0018c94a20",
+        "name": "NCERT Line by Line (YAKEEN YT)"
+      },
+      {
+        "batchId": "63ed31a6f189ac0018436762",
+        "name": "Ummeed 2023"
+      },
+      {
+        "batchId": "624fd5d494de1c0011c3b3a4",
+        "name": "Umeed 2.0"
+      },
+      {
+        "batchId": "6098dae69ca64b0018b1d4a9",
+        "name": "NEET Umeed"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db45acab70f4b4d971f79",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NTAuNjg4LCJkYXRhIjp7Il9pZCI6IjY0NmZhYjdmODRkZTYyMDAxOGJjMDQ3NiIsInVzZXJuYW1lIjoiOTI3OTczNzc3OSIsImZpcnN0TmFtZSI6Ik5hamFmIiwibGFzdE5hbWUiOiJGYXRpbWEiLCJvcmdhbml6YXRpb24iOnsiX2lkIjoiNWViMzkzZWU5NWZhYjc0NjhhNzlkMTg5Iiwid2Vic2l0ZSI6InBoeXNpY3N3YWxsYWguY29tIiwibmFtZSI6IlBoeXNpY3N3YWxsYWgifSwiZW1haWwiOiIiLCJyb2xlcyI6WyI1YjI3YmQ5NjU4NDJmOTUwYTc3OGM2ZWYiXSwiY291bnRyeUdyb3VwIjoiSU4iLCJvbmVSb2xlcyI6W10sInR5cGUiOiJVU0VSIn0sImlhdCI6MTc2OTg0NTg1MH0.Sm_J4XZjD_NuWcc27L5OTJKyVX8yj2Olq3GZBdAEi_E",
+    "batches": [
+      {
+        "batchId": "68ef32b66b7f84bc2ac2ebb2",
+        "name": "JEET CUET 2026"
+      },
+      {
+        "batchId": "67378114c31df6c64863f0ed",
+        "name": "Prachand NEET 2025"
+      },
+      {
+        "batchId": "67a9ebafd53a55baa9dc9875",
+        "name": "Ummeed NEET 2025"
+      },
+      {
+        "batchId": "68848985c92dfcfab40eded6",
+        "name": "Complete PHYSICS by Saleem Sir"
+      },
+      {
+        "batchId": "688dbce6ab56ac82ee51e8ce",
+        "name": "Complete Organic Chemistry by SKC Sir"
+      },
+      {
+        "batchId": "681477329055872ac39db4e4",
+        "name": "PHYSICS Paper Decoding by MR Sir"
+      },
+      {
+        "batchId": "67c82dede1e46cc70470a1dd",
+        "name": "\u0917\u0930\u0941\u0921\u093c (Garuna) NEET Series 2025"
+      },
+      {
+        "batchId": "671f5ea96059088394262c30",
+        "name": "Manzil JEE 2025"
+      },
+      {
+        "batchId": "662808b21ade8f0018fcb884",
+        "name": "NEET Endgame 2024"
+      },
+      {
+        "batchId": "669f83d408536b0018292149",
+        "name": "NEET REVISION EXPRESS"
+      },
+      {
+        "batchId": "66d1f22ee48c3a00189d9e1d",
+        "name": "NEET \u0939\u093f\u0902\u0926\u0940 Mind Map 2025"
+      },
+      {
+        "batchId": "66d1f22e920a7900189c7c56",
+        "name": "NEET Mind Map 2025"
+      },
+      {
+        "batchId": "66b72bd5ff8b6500185100c1",
+        "name": "NCERT Line by Line 2025"
+      },
+      {
+        "batchId": "66e2c5b2351f52bed630ef5d",
+        "name": "Backlog Killer Series for Class 12th\u00a0+\u00a0NEET"
+      },
+      {
+        "batchId": "65e84a9c4f8af100187b9c44",
+        "name": "NEET 2025 Bridge Course (for Class 11th Students)"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db45b1042ce544323c524",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NTEuMjQ1LCJkYXRhIjp7Il9pZCI6IjY1ZWQ1NmMzMTFiNWE4YjU5ZWY3OTEyOSIsInVzZXJuYW1lIjoiOTMwMTgyODc4OCIsImZpcnN0TmFtZSI6IkFycGl0YSIsImxhc3ROYW1lIjoiUmFqcHV0Iiwib3JnYW5pemF0aW9uIjp7Il9pZCI6IjVlYjM5M2VlOTVmYWI3NDY4YTc5ZDE4OSIsIndlYnNpdGUiOiJwaHlzaWNzd2FsbGFoLmNvbSIsIm5hbWUiOiJQaHlzaWNzd2FsbGFoIn0sInJvbGVzIjpbIjViMjdiZDk2NTg0MmY5NTBhNzc4YzZlZiJdLCJjb3VudHJ5R3JvdXAiOiJJTiIsInR5cGUiOiJVU0VSIn0sImlhdCI6MTc2OTg0NTg1MX0.bJxHxcYIuyDmX1idmNs6a92uW0JHyF5newo5V0dH2XM",
+    "batches": [
+      {
+        "batchId": "66167592658781001856ca06",
+        "name": "Maharashtra 10th to 11th Bridge Course"
+      },
+      {
+        "batchId": "67d95cff766bddc008bb4356",
+        "name": "11th to 12th Bridge Course 2026 (Science)"
+      },
+      {
+        "batchId": "6617807f8d04ec0018e43dc3",
+        "name": "Gujarati JEE 10th to 11th Bridge Course"
+      },
+      {
+        "batchId": "67583f3019ab94a6050f0a5a",
+        "name": "Rudra 2025"
+      },
+      {
+        "batchId": "6741b10b343569be54c5b24e",
+        "name": "Warrior 2025"
+      },
+      {
+        "batchId": "6687e5379250ad00189fb981",
+        "name": "Hope (Backlog Series)"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db45bea5167cbe4be40f0",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NTEuNzI5LCJkYXRhIjp7Il9pZCI6IjYzMTc1YzNhNzkzNGZmMDAxMjhmYzM1MSIsInVzZXJuYW1lIjoiNjM4Nzg5MTI2OCIsImZpcnN0TmFtZSI6ImxhbGppIiwibGFzdE5hbWUiOiJndXB0YSIsIm9yZ2FuaXphdGlvbiI6eyJfaWQiOiI1ZWIzOTNlZTk1ZmFiNzQ2OGE3OWQxODkiLCJ3ZWJzaXRlIjoicGh5c2ljc3dhbGxhaC5jb20iLCJuYW1lIjoiUGh5c2ljc3dhbGxhaCJ9LCJyb2xlcyI6WyI1YjI3YmQ5NjU4NDJmOTUwYTc3OGM2ZWYiXSwiY291bnRyeUdyb3VwIjoiSU4iLCJ0eXBlIjoiVVNFUiJ9LCJpYXQiOjE3Njk4NDU4NTF9.tz5p1I1dLkbKfC23WZjIf33SXoGLjdfbmibOPSP9o1Q",
+    "batches": [
+      {
+        "batchId": "661a721731ef700018e5d1a9",
+        "name": "Rajwant Sir Special"
+      },
+      {
+        "batchId": "671f5ea96059088394262c30",
+        "name": "Manzil JEE 2025"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db45cf71b53e8bdf37245",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NTIuMTQyLCJkYXRhIjp7Il9pZCI6IjY0YjBlY2EyNzk3NWMyMDAxODhmMTEyOSIsInVzZXJuYW1lIjoiNjM5Nzc3MzE5OCIsImZpcnN0TmFtZSI6Ikt1bGRlZXAiLCJsYXN0TmFtZSI6IlJhanB1dCIsIm9yZ2FuaXphdGlvbiI6eyJfaWQiOiI1ZWIzOTNlZTk1ZmFiNzQ2OGE3OWQxODkiLCJ3ZWJzaXRlIjoicGh5c2ljc3dhbGxhaC5jb20iLCJuYW1lIjoiUGh5c2ljc3dhbGxhaCJ9LCJlbWFpbCI6IiIsInJvbGVzIjpbIjViMjdiZDk2NTg0MmY5NTBhNzc4YzZlZiIsIjVjYzk1YTJlOGJkZTRkNjZkZTQwMGIzNyJdLCJjb3VudHJ5R3JvdXAiOiJJTiIsInR5cGUiOiJVU0VSIn0sImlhdCI6MTc2OTg0NTg1Mn0.I5sS2PhTBuu2VvnzFzf8YUW_MId7p_FxxqmXlKYefKo",
+    "batches": [
+      {
+        "batchId": "64b6562ac6dec5001844e971",
+        "name": "Class 12th JEE One shot (Lakshya JEE YT)"
+      },
+      {
+        "batchId": "65e2c577d20604001874d310",
+        "name": "Power Batch : 11th Board Foundation Power Class"
+      },
+      {
+        "batchId": "65e2c1f03a6270001864b179",
+        "name": "POWER CLASS FOR JEE"
+      },
+      {
+        "batchId": "64d23a31fa04f200188b5699",
+        "name": "NSEC"
+      },
+      {
+        "batchId": "654b31fd3d24f600180fe031",
+        "name": "MANZIL for JEE 2024"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db45c2947ec04b7d688d5",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NTIuNTc3LCJkYXRhIjp7Il9pZCI6IjY2MmUzOTRiNjA0MzU0NDEyODllMzdlNiIsInVzZXJuYW1lIjoiOTg2ODk4MDcyMCIsImZpcnN0TmFtZSI6IkRoYW5pIiwib3JnYW5pemF0aW9uIjp7Il9pZCI6IjVlYjM5M2VlOTVmYWI3NDY4YTc5ZDE4OSIsIndlYnNpdGUiOiJwaHlzaWNzd2FsbGFoLmNvbSIsIm5hbWUiOiJQaHlzaWNzd2FsbGFoIn0sImVtYWlsIjoicGt3X3drcEB5YWhvby5jby5pbiIsInJvbGVzIjpbIjViMjdiZDk2NTg0MmY5NTBhNzc4YzZlZiJdLCJjb3VudHJ5R3JvdXAiOiJJTiIsInR5cGUiOiJVU0VSIn0sImlhdCI6MTc2OTg0NTg1Mn0.FOgrIRkR16ML1M-f8eORaZoedrstFLl80InuW6EN9fM",
+    "batches": [
+      {
+        "batchId": "6808d21c8b86dac688fe808f",
+        "name": "Pace Class 11th Commerce 2026"
+      },
+      {
+        "batchId": "67878742d7196ec0edbb6344",
+        "name": "Alakh Pandey - Class 10th Batch"
+      },
+      {
+        "batchId": "6741b10b343569be54c5b24e",
+        "name": "Warrior 2025"
+      },
+      {
+        "batchId": "66167592658781001856ca06",
+        "name": "Maharashtra 10th to 11th Bridge Course"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db45dea5167cbe4be4121",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NTMsImRhdGEiOnsiX2lkIjoiNjU3OTg4NzYyODFlMjEwMDE4ODBhN2Q5IiwidXNlcm5hbWUiOiI5OTM1NzA2NTIyIiwiZmlyc3ROYW1lIjoiU2hpdmFtIiwibGFzdE5hbWUiOiJQcmFqYXBhdGkiLCJvcmdhbml6YXRpb24iOnsiX2lkIjoiNWViMzkzZWU5NWZhYjc0NjhhNzlkMTg5Iiwid2Vic2l0ZSI6InBoeXNpY3N3YWxsYWguY29tIiwibmFtZSI6IlBoeXNpY3N3YWxsYWgifSwiZW1haWwiOiJrdW1hcmlzYW5kaHlhMTAxNTBAZ21haWwuY29tIiwicm9sZXMiOlsiNWIyN2JkOTY1ODQyZjk1MGE3NzhjNmVmIl0sImNvdW50cnlHcm91cCI6IklOIiwib25lUm9sZXMiOltdLCJ0eXBlIjoiVVNFUiJ9LCJpYXQiOjE3Njk4NDU4NTN9.YMARNVSe8MDd7-oSPZW5wqd6Chl2suzifh4Ol5ySg14",
+    "batches": [
+      {
+        "batchId": "6978b0a503ec184a7b5428a3",
+        "name": "Class 11 Marathon 2026"
+      },
+      {
+        "batchId": "695df9383b1a1c1fe03402d3",
+        "name": "FATEH 2026"
+      },
+      {
+        "batchId": "6881dd94dd51a1631be45046",
+        "name": "JKBOSE Class 11th Free Batch"
+      },
+      {
+        "batchId": "691170aab2999976ee0c761b",
+        "name": "MANZIL JEE 2026"
+      },
+      {
+        "batchId": "68b7fa872da41a028da49adc",
+        "name": "JEE Painkiller 2026"
+      },
+      {
+        "batchId": "68c4ff87e286cf175eeb8c8e",
+        "name": "PW Champions League"
+      },
+      {
+        "batchId": "68b7e9ad52ee29adc28a58b7",
+        "name": "NSAT 11th JEE 2025"
+      },
+      {
+        "batchId": "68a40738814b41777ed6f427",
+        "name": "Class 11th Half Yearly Marathon 2026"
+      },
+      {
+        "batchId": "68663baacecf410b028b6623",
+        "name": "Uday YT Free Series"
+      },
+      {
+        "batchId": "689de52fade4386240a8ffc0",
+        "name": "NSAT 2025 (11th JEE)"
+      },
+      {
+        "batchId": "6717530ce51d7149fda59893",
+        "name": "CA Foundation Free Batch - Agastya"
+      },
+      {
+        "batchId": "66d1f22ee48c3a00189d9e1d",
+        "name": "NEET \u0939\u093f\u0902\u0926\u0940 Mind Map 2025"
+      },
+      {
+        "batchId": "67878742d7196ec0edbb6344",
+        "name": "Alakh Pandey - Class 10th Batch"
+      },
+      {
+        "batchId": "6741b10b343569be54c5b24e",
+        "name": "Warrior 2025"
+      },
+      {
+        "batchId": "67378114c31df6c64863f0ed",
+        "name": "Prachand NEET 2025"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db45d6503d3be665566de",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NTMuNDI4LCJkYXRhIjp7Il9pZCI6IjYzYTU4ZmM2OWY5OWJmMDE1MmQ5NTMxMyIsInVzZXJuYW1lIjoiNjIwNDIxMTcyNiIsImZpcnN0TmFtZSI6IlJhZGhpa2EiLCJsYXN0TmFtZSI6IlNoYXJtYSIsIm9yZ2FuaXphdGlvbiI6eyJfaWQiOiI1ZWIzOTNlZTk1ZmFiNzQ2OGE3OWQxODkiLCJ3ZWJzaXRlIjoicGh5c2ljc3dhbGxhaC5jb20iLCJuYW1lIjoiUGh5c2ljc3dhbGxhaCJ9LCJlbWFpbCI6bnVsbCwicm9sZXMiOlsiNWIyN2JkOTY1ODQyZjk1MGE3NzhjNmVmIl0sImNvdW50cnlHcm91cCI6IklOIiwidHlwZSI6IlVTRVIifSwiaWF0IjoxNzY5ODQ1ODUzfQ.h97Xd-hOivmnxrhgw8M7GEJEuA_o9hs44N1JVC1A0u4",
+    "batches": [
+      {
+        "batchId": "669f83d408536b0018292149",
+        "name": "NEET REVISION EXPRESS"
+      },
+      {
+        "batchId": "67a9ebafd53a55baa9dc9875",
+        "name": "Ummeed NEET 2025"
+      },
+      {
+        "batchId": "67378114c31df6c64863f0ed",
+        "name": "Prachand NEET 2025"
+      },
+      {
+        "batchId": "65c0d33029e3dd00181b1df9",
+        "name": "UMMEED NEET 2024"
+      },
+      {
+        "batchId": "6561e71925e823001802517f",
+        "name": "Prachand NEET 2024"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db45d6503d3be665566f4",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NTMuODUzLCJkYXRhIjp7Il9pZCI6IjVlY2Y3NzcxZjU4YTcyNGYzMGIzNWZjMyIsInVzZXJuYW1lIjoiNjAwMTk5OTA3OCIsImZpcnN0TmFtZSI6IlByaXlhbVByYWthc2giLCJsYXN0TmFtZSI6IiIsIm9yZ2FuaXphdGlvbiI6eyJfaWQiOiI1ZWIzOTNlZTk1ZmFiNzQ2OGE3OWQxODkiLCJ3ZWJzaXRlIjoicGh5c2ljc3dhbGxhaC5jb20iLCJuYW1lIjoiUGh5c2ljc3dhbGxhaCJ9LCJlbWFpbCI6Imt1bWFycHJha2FzaDI1MTJAZ21haWwuY29tIiwicm9sZXMiOlsiNWIyN2JkOTY1ODQyZjk1MGE3NzhjNmVmIl0sImNvdW50cnlHcm91cCI6IklOIiwib25lUm9sZXMiOltdLCJ0eXBlIjoiVVNFUiJ9LCJpYXQiOjE3Njk4NDU4NTN9.7MXFU9_dW-a2WNo4ekk4zh7TR6A8VlvX33X2epuNsjQ",
+    "batches": [
+      {
+        "batchId": "64e4c7307f225d001822de71",
+        "name": "NEET Mind Map"
+      },
+      {
+        "batchId": "64b6562ac6dec5001844e971",
+        "name": "Class 12th JEE One shot (Lakshya JEE YT)"
+      },
+      {
+        "batchId": "639c56491c02bf01924a0adc",
+        "name": "Manzil Legends-JEE"
+      },
+      {
+        "batchId": "654b31fd3d24f600180fe031",
+        "name": "MANZIL for JEE 2024"
+      },
+      {
+        "batchId": "64e4c8338149b2001892a969",
+        "name": "JEE Mindmap"
+      },
+      {
+        "batchId": "6229aba1c906350011f5b73b",
+        "name": "for JEE Advanced"
+      },
+      {
+        "batchId": "60ad14e75456a90011fdc4ca",
+        "name": "JEE Manzil"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db45ef71b53e8bdf37298",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NTQuMjg5LCJkYXRhIjp7Il9pZCI6IjY0Mzc1ZDE2NThjZWIyMDAxOGI4ZWEzZSIsInVzZXJuYW1lIjoiODI1MjM5Mzk1MiIsImZpcnN0TmFtZSI6IlBBTktBSiIsImxhc3ROYW1lIjoiS1VNQVIiLCJvcmdhbml6YXRpb24iOnsiX2lkIjoiNWViMzkzZWU5NWZhYjc0NjhhNzlkMTg5Iiwid2Vic2l0ZSI6InBoeXNpY3N3YWxsYWguY29tIiwibmFtZSI6IlBoeXNpY3N3YWxsYWgifSwicm9sZXMiOlsiNWIyN2JkOTY1ODQyZjk1MGE3NzhjNmVmIl0sImNvdW50cnlHcm91cCI6IklOIiwidHlwZSI6IlVTRVIifSwiaWF0IjoxNzY5ODQ1ODU0fQ.SY_ubVX19JlCCjgBnpD3FHJhkLwUTKx6QNcrooOKCkc",
+    "batches": []
+  },
+  {
+    "tokenId": "697db45e2947ec04b7d6893a",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NTQuNzMyLCJkYXRhIjp7Il9pZCI6IjY0ZWUxYWVlNWNhNTU4MDAxODg5NDk4ZiIsInVzZXJuYW1lIjoiOTEyMjAyOTc4NiIsImZpcnN0TmFtZSI6IkphaGFuZ2VlciIsImxhc3ROYW1lIjoiIiwib3JnYW5pemF0aW9uIjp7Il9pZCI6IjVlYjM5M2VlOTVmYWI3NDY4YTc5ZDE4OSIsIndlYnNpdGUiOiJwaHlzaWNzd2FsbGFoLmNvbSIsIm5hbWUiOiJQaHlzaWNzd2FsbGFoIn0sImVtYWlsIjoiamFoYW5nZWVyYWM1QGdtYWlsLmNvbSIsInJvbGVzIjpbIjViMjdiZDk2NTg0MmY5NTBhNzc4YzZlZiJdLCJjb3VudHJ5R3JvdXAiOiJJTiIsInR5cGUiOiJVU0VSIn0sImlhdCI6MTc2OTg0NTg1NH0.utb_3XxlQ0KKu3gfpHGPzm25DPHzehWdeFhuQJD2rdo",
+    "batches": [
+      {
+        "batchId": "66f654e7849c413109aaf009",
+        "name": "PW-ISAT Exam for Class 9th"
+      },
+      {
+        "batchId": "66e3c8ba57a6041894f08639",
+        "name": "BACKLOG KILLER for Class 12th JEE"
+      },
+      {
+        "batchId": "67878742d7196ec0edbb6344",
+        "name": "Alakh Pandey - Class 10th Batch"
+      },
+      {
+        "batchId": "67378114c31df6c64863f0ed",
+        "name": "Prachand NEET 2025"
+      },
+      {
+        "batchId": "6741b10b343569be54c5b24e",
+        "name": "Warrior 2025"
+      },
+      {
+        "batchId": "66b72bd5ff8b6500185100c1",
+        "name": "NCERT Line by Line 2025"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db45f2947ec04b7d68949",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NTUuMTcsImRhdGEiOnsiX2lkIjoiNjU2ODk5NjI0MmZlMWEwMDE4OTYxMzMwIiwidXNlcm5hbWUiOiI5ODcxNzAxNTExIiwiZmlyc3ROYW1lIjoiQWtzaGl0IiwibGFzdE5hbWUiOiIiLCJvcmdhbml6YXRpb24iOnsiX2lkIjoiNWViMzkzZWU5NWZhYjc0NjhhNzlkMTg5Iiwid2Vic2l0ZSI6InBoeXNpY3N3YWxsYWguY29tIiwibmFtZSI6IlBoeXNpY3N3YWxsYWgifSwicm9sZXMiOlsiNWIyN2JkOTY1ODQyZjk1MGE3NzhjNmVmIl0sImNvdW50cnlHcm91cCI6IklOIiwib25lUm9sZXMiOltdLCJ0eXBlIjoiVVNFUiJ9LCJpYXQiOjE3Njk4NDU4NTV9.67qALGPZiAhapD4zEez6MogH4n1Ll5FZy08_ar7dfuM",
+    "batches": [
+      {
+        "batchId": "68a40738814b41777ed6f427",
+        "name": "Class 11th Half Yearly Marathon 2026"
+      },
+      {
+        "batchId": "6720861b558b222dc48b6b3d",
+        "name": "Vidyapeeth Class 10th Complementary Classes 2025"
+      },
+      {
+        "batchId": "6809f4aec7ddd2aafdaaba72",
+        "name": "DISHA 1:1 Mentorship (JEE)"
+      },
+      {
+        "batchId": "67878742d7196ec0edbb6344",
+        "name": "Alakh Pandey - Class 10th Batch"
+      },
+      {
+        "batchId": "66ec10a6f8d900bf1d962cb3",
+        "name": "Vidyapeeth 11th JEE (Target 2027)"
+      },
+      {
+        "batchId": "6741b10b343569be54c5b24e",
+        "name": "Warrior 2025"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db45f6503d3be6655673d",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NTUuNTc4LCJkYXRhIjp7Il9pZCI6IjY2NTFkYWEwMGNhYmMxOWQ3MjgxNmViMSIsInVzZXJuYW1lIjoiODA3NzQyNjYwOSIsImZpcnN0TmFtZSI6IlN1bWl0IiwibGFzdE5hbWUiOiIiLCJvcmdhbml6YXRpb24iOnsiX2lkIjoiNWViMzkzZWU5NWZhYjc0NjhhNzlkMTg5Iiwid2Vic2l0ZSI6InBoeXNpY3N3YWxsYWguY29tIiwibmFtZSI6IlBoeXNpY3N3YWxsYWgifSwiZW1haWwiOiJzdW1pdGh1OTA5MEBnbWFpbC5jb20iLCJyb2xlcyI6WyI1YjI3YmQ5NjU4NDJmOTUwYTc3OGM2ZWYiXSwiY291bnRyeUdyb3VwIjoiSU4iLCJvbmVSb2xlcyI6W10sInR5cGUiOiJVU0VSIn0sImlhdCI6MTc2OTg0NTg1NX0.8dEds7nV4OtlfWPq4rOdQBxnKvdrU1dTtMqtsbbq--o",
+    "batches": []
+  },
+  {
+    "tokenId": "697db460cab70f4b4d97200c",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NTYuMDM1LCJkYXRhIjp7Il9pZCI6IjYyOWEwYWQzNTM3NzA4MDAxMTk5ZGViNyIsInVzZXJuYW1lIjoiNjM4ODI3NDcwOCIsImZpcnN0TmFtZSI6InZpbmF5IiwibGFzdE5hbWUiOiJrdW1hciIsIm9yZ2FuaXphdGlvbiI6eyJfaWQiOiI1ZWIzOTNlZTk1ZmFiNzQ2OGE3OWQxODkiLCJ3ZWJzaXRlIjoicGh5c2ljc3dhbGxhaC5jb20iLCJuYW1lIjoiUGh5c2ljc3dhbGxhaCJ9LCJlbWFpbCI6InZrNDA4MjAwM0BnbWFpbC5jb20iLCJyb2xlcyI6WyI1YjI3YmQ5NjU4NDJmOTUwYTc3OGM2ZWYiXSwiY291bnRyeUdyb3VwIjoiSU4iLCJ0eXBlIjoiVVNFUiJ9LCJpYXQiOjE3Njk4NDU4NTZ9.XzI43hBO68Dsm1G1AvG6CrghA2Wz8MCc8Q2RqoFJKmU",
+    "batches": []
+  },
+  {
+    "tokenId": "697db460ea5167cbe4be41c7",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NTYuNDY4LCJkYXRhIjp7Il9pZCI6IjY2M2E0MmQ2YmI5ODE2NTIwZjE2NGQzZCIsInVzZXJuYW1lIjoiODk2MjUyODI3OSIsImZpcnN0TmFtZSI6IkFsdGFtYXMiLCJsYXN0TmFtZSI6IlJhemEiLCJvcmdhbml6YXRpb24iOnsiX2lkIjoiNWViMzkzZWU5NWZhYjc0NjhhNzlkMTg5Iiwid2Vic2l0ZSI6InBoeXNpY3N3YWxsYWguY29tIiwibmFtZSI6IlBoeXNpY3N3YWxsYWgifSwicm9sZXMiOlsiNWIyN2JkOTY1ODQyZjk1MGE3NzhjNmVmIl0sImNvdW50cnlHcm91cCI6IklOIiwib25lUm9sZXMiOltdLCJ0eXBlIjoiVVNFUiJ9LCJpYXQiOjE3Njk4NDU4NTZ9.NZLfy4zTfCr9dyuN0OiKVdVAXPPuoZtMx811O3vX7Rw",
+    "batches": [
+      {
+        "batchId": "661a721731ef700018e5d1a9",
+        "name": "Rajwant Sir Special"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db460cab70f4b4d972026",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NTYuODcyLCJkYXRhIjp7Il9pZCI6IjY4MTU3YjI3ZDg3NzkxYjUzZjVkNzdjMiIsInVzZXJuYW1lIjoiODEzNDg0NjE3NiIsImZpcnN0TmFtZSI6IkFuc2h1bWFuIiwibGFzdE5hbWUiOiJEYXMiLCJvcmdhbml6YXRpb24iOnsiX2lkIjoiNWViMzkzZWU5NWZhYjc0NjhhNzlkMTg5Iiwid2Vic2l0ZSI6InBoeXNpY3N3YWxsYWguY29tIiwibmFtZSI6IlBoeXNpY3N3YWxsYWgifSwiZW1haWwiOiJkYXNwcml0b200MzIxQGdtYWlsLmNvbSIsInJvbGVzIjpbIjViMjdiZDk2NTg0MmY5NTBhNzc4YzZlZiJdLCJjb3VudHJ5R3JvdXAiOiJJTiIsIm9uZVJvbGVzIjpbXSwidHlwZSI6IlVTRVIifSwiaWF0IjoxNzY5ODQ1ODU2fQ.2BmpzmSr-IZQaHkLuALiwWth6Pzm9cfPK873dRx6Zf8",
+    "batches": [
+      {
+        "batchId": "6960d1d20549bb69d7d7e872",
+        "name": "11th Jee Restart 2026"
+      },
+      {
+        "batchId": "661a721731ef700018e5d1a9",
+        "name": "Rajwant Sir Special"
+      },
+      {
+        "batchId": "68e749097bbb12f648f52b20",
+        "name": "Arjuna JEE Plus 2026"
+      },
+      {
+        "batchId": "67bece5e1336493ed1d9a4bc",
+        "name": "Uday Fastrack 2026 (Class 11th)"
+      },
+      {
+        "batchId": "689de52fade4386240a8ffc0",
+        "name": "NSAT 2025 (11th JEE)"
+      },
+      {
+        "batchId": "67626d2969e22ef8fe2c5a29",
+        "name": "Arjuna JEE AIR O2 (2027) Recorded"
+      },
+      {
+        "batchId": "678a0324dab28c8848cc026f",
+        "name": "Arjuna JEE 2.0 2026"
+      },
+      {
+        "batchId": "6819787b3380aa01c4251997",
+        "name": "UDAY RELOADED 2026 (Class 11th)"
+      },
+      {
+        "batchId": "676e4dee1ec923bc192f38c9",
+        "name": "Arjuna JEE 2026"
+      },
+      {
+        "batchId": "67e4034dffd269e6d477ddd8",
+        "name": "ARJUNA JEE WEEKEND EXPRESS 2026"
+      },
+      {
+        "batchId": "678a0325c1d3c4e8d532b474",
+        "name": "Arjuna JEE 4.0 2026"
+      },
+      {
+        "batchId": "678a1c6c984a0ff1ae00a142",
+        "name": "Arjuna JEE 3.0 2026"
+      },
+      {
+        "batchId": "6774f509dcc961a5430bb4ba",
+        "name": "UDAY 2026 (Class 11th)"
+      },
+      {
+        "batchId": "67d16f420742bf12fdf199c0",
+        "name": "JEE Bridge Course 2026"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db461b121d21179718a6f",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NTcuMjcsImRhdGEiOnsiX2lkIjoiNjUyODE5NjEzZjkyN2MwMDEyZWI1ZTQyIiwidXNlcm5hbWUiOiI5NjQzNjc4MDgxIiwiZmlyc3ROYW1lIjoiQW51YmhhdiIsImxhc3ROYW1lIjoiUmF0aG9yZSIsIm9yZ2FuaXphdGlvbiI6eyJfaWQiOiI1ZWIzOTNlZTk1ZmFiNzQ2OGE3OWQxODkiLCJ3ZWJzaXRlIjoicGh5c2ljc3dhbGxhaC5jb20iLCJuYW1lIjoiUGh5c2ljc3dhbGxhaCJ9LCJlbWFpbCI6ImFuc2h1bHNpbmdoMjY5MjJAZ21haWwuY29tIiwicm9sZXMiOlsiNWIyN2JkOTY1ODQyZjk1MGE3NzhjNmVmIl0sImNvdW50cnlHcm91cCI6IklOIiwib25lUm9sZXMiOltdLCJ0eXBlIjoiVVNFUiJ9LCJpYXQiOjE3Njk4NDU4NTd9.A9loBcKAZTxgLIhkHjcV3eav6wmEIK_vXad5638ogzc",
+    "batches": [
+      {
+        "batchId": "686637094f9f7e699b57870d",
+        "name": "NCERT Wallah YT Free Series"
+      },
+      {
+        "batchId": "67c03fb6b86fcbbeafeabc71",
+        "name": "Online MBA Degree : Your Future Your Way"
+      },
+      {
+        "batchId": "67d16f420742bf12fdf199c0",
+        "name": "JEE Bridge Course 2026"
+      },
+      {
+        "batchId": "67878742d7196ec0edbb6344",
+        "name": "Alakh Pandey - Class 10th Batch"
+      },
+      {
+        "batchId": "66d1558f496b720018001fef",
+        "name": "JEE Mind Map Series"
+      },
+      {
+        "batchId": "66a4c326f2c8470018eab175",
+        "name": "JEE Revision Express"
+      },
+      {
+        "batchId": "66e2c5b2351f52bed630ef5d",
+        "name": "Backlog Killer Series for Class 12th\u00a0+\u00a0NEET"
+      },
+      {
+        "batchId": "671f5ea96059088394262c30",
+        "name": "Manzil JEE 2025"
+      },
+      {
+        "batchId": "65dedd733a57db0018ddd58e",
+        "name": "Arjuna JEE 4.0 2025"
+      },
+      {
+        "batchId": "6683e555c72ea70018d2f127",
+        "name": "MSC Data Science (Online)"
+      },
+      {
+        "batchId": "6561e71925e823001802517f",
+        "name": "Prachand NEET 2024"
+      },
+      {
+        "batchId": "6692357d2c88ad001824129d",
+        "name": "Arjuna JEE AIR 2026 Recorded"
+      },
+      {
+        "batchId": "653cd76ad2f649001894ba9c",
+        "name": "Lakshya NEET YT"
+      },
+      {
+        "batchId": "64b6562ac6dec5001844e971",
+        "name": "Class 12th JEE One shot (Lakshya JEE YT)"
+      },
+      {
+        "batchId": "65dedbbd16156900189fdeec",
+        "name": "Arjuna JEE 3.0 2025"
+      },
+      {
+        "batchId": "661a721731ef700018e5d1a9",
+        "name": "Rajwant Sir Special"
+      },
+      {
+        "batchId": "65ddb1c691431f0018a11f4a",
+        "name": "Arjuna JEE 2.0 2025"
+      },
+      {
+        "batchId": "65d86238cdb6ea00181bdcfe",
+        "name": "Arjuna JEE 2025"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db461ea5167cbe4be420e",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NTcuNjU4LCJkYXRhIjp7Il9pZCI6IjY0ZmE3YmU2ZWVmMDc1MDAxOGM0NzBjYiIsInVzZXJuYW1lIjoiOTMwNzc0ODA0OSIsImZpcnN0TmFtZSI6IkJpdHR1IiwibGFzdE5hbWUiOiJTaW5naCIsIm9yZ2FuaXphdGlvbiI6eyJfaWQiOiI1ZWIzOTNlZTk1ZmFiNzQ2OGE3OWQxODkiLCJ3ZWJzaXRlIjoicGh5c2ljc3dhbGxhaC5jb20iLCJuYW1lIjoiUGh5c2ljc3dhbGxhaCJ9LCJlbWFpbCI6InN1amFsbGFuZGdlODNAZ21haWwuY29tIiwicm9sZXMiOlsiNWIyN2JkOTY1ODQyZjk1MGE3NzhjNmVmIl0sImNvdW50cnlHcm91cCI6IklOIiwib25lUm9sZXMiOltdLCJ0eXBlIjoiVVNFUiJ9LCJpYXQiOjE3Njk4NDU4NTd9.qten7h21zjd3a8Dl6qJKuJTcUvyi71VibfubjCR4Q3M",
+    "batches": [
+      {
+        "batchId": "67a9ebafd53a55baa9dc9875",
+        "name": "Ummeed NEET 2025"
+      },
+      {
+        "batchId": "64b6562ac6dec5001844e971",
+        "name": "Class 12th JEE One shot (Lakshya JEE YT)"
+      },
+      {
+        "batchId": "654b31fd3d24f600180fe031",
+        "name": "MANZIL for JEE 2024"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db4622947ec04b7d689b0",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NTguMDUsImRhdGEiOnsiX2lkIjoiNjJmZjk1ZjI2YmY2ZDkwMDFhNTJiZGNkIiwidXNlcm5hbWUiOiI4NDQ2NDM5MDEzIiwiZmlyc3ROYW1lIjoiU25laGFsIiwibGFzdE5hbWUiOiJQYXRpbCIsIm9yZ2FuaXphdGlvbiI6eyJfaWQiOiI1ZWIzOTNlZTk1ZmFiNzQ2OGE3OWQxODkiLCJ3ZWJzaXRlIjoicGh5c2ljc3dhbGxhaC5jb20iLCJuYW1lIjoiUGh5c2ljc3dhbGxhaCJ9LCJlbWFpbCI6InNuZWhhbHBhdGlsMDQyMDA3QGdtYWlsLmNvbSIsInJvbGVzIjpbIjViMjdiZDk2NTg0MmY5NTBhNzc4YzZlZiJdLCJjb3VudHJ5R3JvdXAiOiJJTiIsIm9uZVJvbGVzIjpbXSwidHlwZSI6IlVTRVIifSwiaWF0IjoxNzY5ODQ1ODU4fQ.hvfjXNGcpRwfnDypoLu1ikWSp_Kp-o_OcxO8KW48aq4",
+    "batches": [
+      {
+        "batchId": "669f83d408536b0018292149",
+        "name": "NEET REVISION EXPRESS"
+      },
+      {
+        "batchId": "691170aab2999976ee0c761b",
+        "name": "MANZIL JEE 2026"
+      },
+      {
+        "batchId": "67378114c31df6c64863f0ed",
+        "name": "Prachand NEET 2025"
+      },
+      {
+        "batchId": "68848985c92dfcfab40eded6",
+        "name": "Complete PHYSICS by Saleem Sir"
+      },
+      {
+        "batchId": "68c9795e211575f4881c73e4",
+        "name": "NCERT Line by Line 2026"
+      },
+      {
+        "batchId": "66d1f22e920a7900189c7c56",
+        "name": "NEET Mind Map 2025"
+      },
+      {
+        "batchId": "67a9ebafd53a55baa9dc9875",
+        "name": "Ummeed NEET 2025"
+      },
+      {
+        "batchId": "66e2c5b2351f52bed630ef5d",
+        "name": "Backlog Killer Series for Class 12th\u00a0+\u00a0NEET"
+      },
+      {
+        "batchId": "66b72bd5ff8b6500185100c1",
+        "name": "NCERT Line by Line 2025"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db462b121d21179718aa4",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NTguNDYxLCJkYXRhIjp7Il9pZCI6IjYzN2MxMTc1MGEyNDNkMDEwYzZhNmFlNSIsInVzZXJuYW1lIjoiNzAwNzE5MjI2OCIsImZpcnN0TmFtZSI6IlRlamFzd2kiLCJsYXN0TmFtZSI6IlNpbmdoIiwib3JnYW5pemF0aW9uIjp7Il9pZCI6IjVlYjM5M2VlOTVmYWI3NDY4YTc5ZDE4OSIsIndlYnNpdGUiOiJwaHlzaWNzd2FsbGFoLmNvbSIsIm5hbWUiOiJQaHlzaWNzd2FsbGFoIn0sImVtYWlsIjoidGVqYXN3aW02NDhAZ21haWwuY29tIiwicm9sZXMiOlsiNWIyN2JkOTY1ODQyZjk1MGE3NzhjNmVmIiwiNWNjOTVhMmU4YmRlNGQ2NmRlNDAwYjM3Il0sImNvdW50cnlHcm91cCI6IklOIiwib25lUm9sZXMiOltdLCJ0eXBlIjoiVVNFUiJ9LCJpYXQiOjE3Njk4NDU4NTh9.pMA9MH5G50v3oeb_WeUEbR2mFfFCPRo8HmP8auGGGgg",
+    "batches": [
+      {
+        "batchId": "68b7f303bf385bae1802877d",
+        "name": "NSAT 12th NEET 2025"
+      },
+      {
+        "batchId": "68b82cae3b7d72a802e22c40",
+        "name": "NEET Painkiller 2026"
+      },
+      {
+        "batchId": "639c56491c02bf01924a0adc",
+        "name": "Manzil Legends-JEE"
+      },
+      {
+        "batchId": "654b31fd3d24f600180fe031",
+        "name": "MANZIL for JEE 2024"
+      },
+      {
+        "batchId": "6098dae69ca64b0018b1d4a9",
+        "name": "NEET Umeed"
+      },
+      {
+        "batchId": "624fd5d494de1c0011c3b3a4",
+        "name": "Umeed 2.0"
+      },
+      {
+        "batchId": "67a9ebafd53a55baa9dc9875",
+        "name": "Ummeed NEET 2025"
+      },
+      {
+        "batchId": "670cd68207f82747e3b80034",
+        "name": "Safal 3.0 CUET Commerce 2025"
+      },
+      {
+        "batchId": "67878742d7196ec0edbb6344",
+        "name": "Alakh Pandey - Class 10th Batch"
+      },
+      {
+        "batchId": "671f5ea96059088394262c30",
+        "name": "Manzil JEE 2025"
+      },
+      {
+        "batchId": "67378114c31df6c64863f0ed",
+        "name": "Prachand NEET 2025"
+      },
+      {
+        "batchId": "66b72bd5ff8b6500185100c1",
+        "name": "NCERT Line by Line 2025"
+      },
+      {
+        "batchId": "66d1f22e920a7900189c7c56",
+        "name": "NEET Mind Map 2025"
+      },
+      {
+        "batchId": "66e2c5b2351f52bed630ef5d",
+        "name": "Backlog Killer Series for Class 12th\u00a0+\u00a0NEET"
+      },
+      {
+        "batchId": "64d23a31fa04f200188b5699",
+        "name": "NSEC"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db4631042ce544323c546",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NTguOTg4LCJkYXRhIjp7Il9pZCI6IjY4NGZmNzU0MDAxNjhkZTk5ZDNkZjJiNyIsInVzZXJuYW1lIjoiOTY2MTE0MDM1NyIsImZpcnN0TmFtZSI6IkFsaXVsbGFoIiwibGFzdE5hbWUiOiJBbnNhcmkiLCJvcmdhbml6YXRpb24iOnsiX2lkIjoiNWViMzkzZWU5NWZhYjc0NjhhNzlkMTg5Iiwid2Vic2l0ZSI6InBoeXNpY3N3YWxsYWguY29tIiwibmFtZSI6IlBoeXNpY3N3YWxsYWgifSwicm9sZXMiOlsiNWIyN2JkOTY1ODQyZjk1MGE3NzhjNmVmIl0sImNvdW50cnlHcm91cCI6IklOIiwib25lUm9sZXMiOltdLCJ0eXBlIjoiVVNFUiJ9LCJpYXQiOjE3Njk4NDU4NTh9.pdmP1BceW4I7V-KdbXBWtOqoQsVC87e4kX7fyTQvBQ4",
+    "batches": [
+      {
+        "batchId": "661a721731ef700018e5d1a9",
+        "name": "Rajwant Sir Special"
+      },
+      {
+        "batchId": "66951a753c1ab600187b8b31",
+        "name": "Alchemy by Nikhil Sir"
+      },
+      {
+        "batchId": "678a08fc872e93ccb58047b0",
+        "name": "Arjuna NEET 2.0 2026"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db463b121d21179718ac8",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NTkuNDU2LCJkYXRhIjp7Il9pZCI6IjYyYTZmMjViZDYzN2IxMDAxMWQ2YmEyYiIsInVzZXJuYW1lIjoiOTM0MDc1NTM0NSIsImZpcnN0TmFtZSI6IkFUSEFSViIsImxhc3ROYW1lIjoiU0lOR0ggUEFURUwiLCJvcmdhbml6YXRpb24iOnsiX2lkIjoiNWViMzkzZWU5NWZhYjc0NjhhNzlkMTg5Iiwid2Vic2l0ZSI6InBoeXNpY3N3YWxsYWguY29tIiwibmFtZSI6IlBoeXNpY3N3YWxsYWgifSwiZW1haWwiOiJhdGhhcnZzaW5naHBhdGVsNDQwQGdtYWlsLmNvbSIsInJvbGVzIjpbIjViMjdiZDk2NTg0MmY5NTBhNzc4YzZlZiJdLCJjb3VudHJ5R3JvdXAiOiJJTiIsInR5cGUiOiJVU0VSIn0sImlhdCI6MTc2OTg0NTg1OX0.HJKGfaNLAmq7XDbvHRgoshKvwi1OhW15peXhNRKIaKM",
+    "batches": [
+      {
+        "batchId": "6632168f074c2100180e95a8",
+        "name": "11th & 12th NEET - NCERT Punch"
+      },
+      {
+        "batchId": "6906a860044a1fd7c75ec528",
+        "name": "Vidyapeeth 20-YN121TA 2025"
+      },
+      {
+        "batchId": "68e63e6979ce7d6b77400be3",
+        "name": "MIP AITS\u00a0Dropper\u00a0NEET 2026"
+      },
+      {
+        "batchId": "68e656e433cc255296c72d19",
+        "name": "Complete ZOOLOGY by Samapti Mam"
+      },
+      {
+        "batchId": "67378114c31df6c64863f0ed",
+        "name": "Prachand NEET 2025"
+      },
+      {
+        "batchId": "67a9ebafd53a55baa9dc9875",
+        "name": "Ummeed NEET 2025"
+      },
+      {
+        "batchId": "66e2c5b2351f52bed630ef5d",
+        "name": "Backlog Killer Series for Class 12th\u00a0+\u00a0NEET"
+      },
+      {
+        "batchId": "669f83d408536b0018292149",
+        "name": "NEET REVISION EXPRESS"
+      },
+      {
+        "batchId": "64e4c7307f225d001822de71",
+        "name": "NEET Mind Map"
+      },
+      {
+        "batchId": "6561e71925e823001802517f",
+        "name": "Prachand NEET 2024"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db4632947ec04b7d689de",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NTkuODU3LCJkYXRhIjp7Il9pZCI6IjY2MGVjYjdlZjg0ZmVlMDAxODI1ZjRjNSIsInVzZXJuYW1lIjoiODc4OTU5NjAwMiIsImZpcnN0TmFtZSI6IlNuZWh1IiwibGFzdE5hbWUiOiJTaHJpd2FzdGF3YSIsIm9yZ2FuaXphdGlvbiI6eyJfaWQiOiI1ZWIzOTNlZTk1ZmFiNzQ2OGE3OWQxODkiLCJ3ZWJzaXRlIjoicGh5c2ljc3dhbGxhaC5jb20iLCJuYW1lIjoiUGh5c2ljc3dhbGxhaCJ9LCJlbWFpbCI6InNuZWh1c2hyaXdhc3RhdmE3N0BnbWFpbC5jb20iLCJyb2xlcyI6WyI1YjI3YmQ5NjU4NDJmOTUwYTc3OGM2ZWYiLCI1Y2M5NWEyZThiZGU0ZDY2ZGU0MDBiMzciXSwiY291bnRyeUdyb3VwIjoiSU4iLCJ0eXBlIjoiVVNFUiJ9LCJpYXQiOjE3Njk4NDU4NTl9.nfj-FgdDDne0_n4RCs7MyoHedOxPb759BPC5lrMWFQA",
+    "batches": [
+      {
+        "batchId": "691170aab2999976ee0c761b",
+        "name": "MANZIL JEE 2026"
+      },
+      {
+        "batchId": "688dbe3f1d603d8110a7bacb",
+        "name": "Shatak 2.0 12th JEE 2025"
+      },
+      {
+        "batchId": "65be1f2e68e48a0018d89efd",
+        "name": "11th JEE - NCERT Punch"
+      },
+      {
+        "batchId": "676e7c6310bf949eb687ca79",
+        "name": "Vidyapeeth 41-LJ121EP 2025"
+      },
+      {
+        "batchId": "65be1f2f68e48a0018d89f00",
+        "name": "12th JEE - NCERT Punch"
+      },
+      {
+        "batchId": "67e6d0a1b54fc2ec17a306c9",
+        "name": "PW Shiksha (2025-26)"
+      },
+      {
+        "batchId": "67c44362387c259551d48741",
+        "name": "Vidyapeeth 41-LJ123EA 2025"
+      },
+      {
+        "batchId": "66a4c326f2c8470018eab175",
+        "name": "JEE Revision Express"
+      },
+      {
+        "batchId": "671f5ea96059088394262c30",
+        "name": "Manzil JEE 2025"
+      },
+      {
+        "batchId": "660535289d98c40018339704",
+        "name": "Vidyapeeth 41-AJ121EA 2024"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db464ea5167cbe4be427a",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NjAuMjU0LCJkYXRhIjp7Il9pZCI6IjY3Zjc2ODAxNjJkMWY2MGQ0NTNmYmZlMCIsInVzZXJuYW1lIjoiNzI5Mjg2MTg0MCIsImZpcnN0TmFtZSI6IkFuamFsaSIsImxhc3ROYW1lIjoiS3VtYXJpIiwib3JnYW5pemF0aW9uIjp7Il9pZCI6IjVlYjM5M2VlOTVmYWI3NDY4YTc5ZDE4OSIsIndlYnNpdGUiOiJwaHlzaWNzd2FsbGFoLmNvbSIsIm5hbWUiOiJQaHlzaWNzd2FsbGFoIn0sInJvbGVzIjpbIjViMjdiZDk2NTg0MmY5NTBhNzc4YzZlZiIsIjVjYzk1YTJlOGJkZTRkNjZkZTQwMGIzNyJdLCJjb3VudHJ5R3JvdXAiOiJJTiIsIm9uZVJvbGVzIjpbXSwidHlwZSI6IlVTRVIifSwiaWF0IjoxNzY5ODQ1ODYwfQ.gCLNta3sf7V5VksiYBshZciQX4Bedtu7FlEsSOjX91M",
+    "batches": [
+      {
+        "batchId": "66b72bd5ff8b6500185100c1",
+        "name": "NCERT Line by Line 2025"
+      },
+      {
+        "batchId": "66d1f22e920a7900189c7c56",
+        "name": "NEET Mind Map 2025"
+      },
+      {
+        "batchId": "66e2c5b2351f52bed630ef5d",
+        "name": "Backlog Killer Series for Class 12th\u00a0+\u00a0NEET"
+      },
+      {
+        "batchId": "669f83d408536b0018292149",
+        "name": "NEET REVISION EXPRESS"
+      },
+      {
+        "batchId": "67378114c31df6c64863f0ed",
+        "name": "Prachand NEET 2025"
+      },
+      {
+        "batchId": "6561e71925e823001802517f",
+        "name": "Prachand NEET 2024"
+      },
+      {
+        "batchId": "67a9ebafd53a55baa9dc9875",
+        "name": "Ummeed NEET 2025"
+      },
+      {
+        "batchId": "6817603ea72ef21c35992ed8",
+        "name": "DISHA 1:1 Mentorship (NEET)"
+      },
+      {
+        "batchId": "67fa7490bf2ec4e836b8edbe",
+        "name": "Power Batch : 2 year NEET Target 2B 2027 (N1121AB)"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db464f71b53e8bdf3738b",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NjAuNjU5LCJkYXRhIjp7Il9pZCI6IjY0Nzc1MDFkZjE3MTUyMDAxODgwZWNkYyIsInVzZXJuYW1lIjoiNzk5OTk1ODQ0MyIsImZpcnN0TmFtZSI6IlJpc2hhYmgiLCJsYXN0TmFtZSI6IlJhd2F0Iiwib3JnYW5pemF0aW9uIjp7Il9pZCI6IjVlYjM5M2VlOTVmYWI3NDY4YTc5ZDE4OSIsIndlYnNpdGUiOiJwaHlzaWNzd2FsbGFoLmNvbSIsIm5hbWUiOiJQaHlzaWNzd2FsbGFoIn0sImVtYWlsIjoib2ZmaWNpYWxyaWRlcjQzMjFAZ21haWwuY29tIiwicm9sZXMiOlsiNWIyN2JkOTY1ODQyZjk1MGE3NzhjNmVmIl0sImNvdW50cnlHcm91cCI6IklOIiwib25lUm9sZXMiOltdLCJ0eXBlIjoiVVNFUiJ9LCJpYXQiOjE3Njk4NDU4NjB9.O93Kz9K5FAeIWsnPBKu0QqjOQab6_1xJAqKn5pcL3Gs",
+    "batches": [
+      {
+        "batchId": "639c56491c02bf01924a0adc",
+        "name": "Manzil Legends-JEE"
+      },
+      {
+        "batchId": "64e4c8338149b2001892a969",
+        "name": "JEE Mindmap"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db4652947ec04b7d68a21",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NjEuMDc0LCJkYXRhIjp7Il9pZCI6IjY1MTUzODNhNjE4YWU4MDAxOGRhNjBkOCIsInVzZXJuYW1lIjoiODA1NzU4NDExNyIsImZpcnN0TmFtZSI6IkFyYXYiLCJsYXN0TmFtZSI6IkNoYW5kcmEiLCJvcmdhbml6YXRpb24iOnsiX2lkIjoiNWViMzkzZWU5NWZhYjc0NjhhNzlkMTg5Iiwid2Vic2l0ZSI6InBoeXNpY3N3YWxsYWguY29tIiwibmFtZSI6IlBoeXNpY3N3YWxsYWgifSwiZW1haWwiOiJiYWJpc2hhY2hhbmRyYTFAZ21haWwuY29tIiwicm9sZXMiOlsiNWIyN2JkOTY1ODQyZjk1MGE3NzhjNmVmIl0sImNvdW50cnlHcm91cCI6IklOIiwib25lUm9sZXMiOltdLCJ0eXBlIjoiVVNFUiJ9LCJpYXQiOjE3Njk4NDU4NjF9.eGT61hM3ENC8JW3NVAC-YSukrCMrsCW75GmlxDnx8EU",
+    "batches": [
+      {
+        "batchId": "6741b10b343569be54c5b24e",
+        "name": "Warrior 2025"
+      },
+      {
+        "batchId": "66b4576095473c0018a47880",
+        "name": "Ace Series"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db465b121d21179718b08",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NjEuNDcyLCJkYXRhIjp7Il9pZCI6IjY2ODgyYzA4MTYwNzJhOTVhMGYyNWEzYyIsInVzZXJuYW1lIjoiNzg4OTgzNTg1OCIsImZpcnN0TmFtZSI6Ik1hc2hyYWYiLCJsYXN0TmFtZSI6IkFsaSBLaGFuIiwib3JnYW5pemF0aW9uIjp7Il9pZCI6IjVlYjM5M2VlOTVmYWI3NDY4YTc5ZDE4OSIsIndlYnNpdGUiOiJwaHlzaWNzd2FsbGFoLmNvbSIsIm5hbWUiOiJQaHlzaWNzd2FsbGFoIn0sImVtYWlsIjoicmFqYWJhc2FyYWxpQGdtYWlsLmNvbSIsInJvbGVzIjpbIjViMjdiZDk2NTg0MmY5NTBhNzc4YzZlZiJdLCJjb3VudHJ5R3JvdXAiOiJJTiIsInR5cGUiOiJVU0VSIn0sImlhdCI6MTc2OTg0NTg2MX0.A_z9D3EWzvtA277yWIYZXgSp42XJ1Hg72B-4QULuxpY",
+    "batches": [
+      {
+        "batchId": "67378114c31df6c64863f0ed",
+        "name": "Prachand NEET 2025"
+      },
+      {
+        "batchId": "669b52aa2c40a300181bfd1e",
+        "name": "Arjuna NEET 3.0 2025 + Uday 2.0 2025"
+      },
+      {
+        "batchId": "65e03acc9461ec0018efa836",
+        "name": "Arjuna NEET 3.0 2025"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db465cab70f4b4d9720b7",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NjEuODY1LCJkYXRhIjp7Il9pZCI6IjYzMGI2MzI3NTlmNWI1MDAxODQ4ZTllOSIsInVzZXJuYW1lIjoiNjIwNzk0MjExOCIsImZpcnN0TmFtZSI6Ik5pa2hpbCIsImxhc3ROYW1lIjoiRnJpZW5kIiwib3JnYW5pemF0aW9uIjp7Il9pZCI6IjVlYjM5M2VlOTVmYWI3NDY4YTc5ZDE4OSIsIndlYnNpdGUiOiJwaHlzaWNzd2FsbGFoLmNvbSIsIm5hbWUiOiJQaHlzaWNzd2FsbGFoIn0sImVtYWlsIjpudWxsLCJyb2xlcyI6WyI1YjI3YmQ5NjU4NDJmOTUwYTc3OGM2ZWYiXSwiY291bnRyeUdyb3VwIjoiSU4iLCJ0eXBlIjoiVVNFUiJ9LCJpYXQiOjE3Njk4NDU4NjF9.ENz6fFbc7hk8j47gsSzpFHjw6llWzM71iqfW7HNMcZc",
+    "batches": [
+      {
+        "batchId": "691170aab2999976ee0c761b",
+        "name": "MANZIL JEE 2026"
+      },
+      {
+        "batchId": "654b31fd3d24f600180fe031",
+        "name": "MANZIL for JEE 2024"
+      },
+      {
+        "batchId": "671f5ea96059088394262c30",
+        "name": "Manzil JEE 2025"
+      },
+      {
+        "batchId": "688b05f38eed8a3b6a7b14cb",
+        "name": "Complete Mathematics by Sachin Sir"
+      },
+      {
+        "batchId": "661a721731ef700018e5d1a9",
+        "name": "Rajwant Sir Special"
+      },
+      {
+        "batchId": "6229aba1c906350011f5b73b",
+        "name": "for JEE Advanced"
+      },
+      {
+        "batchId": "60ad14e75456a90011fdc4ca",
+        "name": "JEE Manzil"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db466ea5167cbe4be42ae",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NjIuMjY0LCJkYXRhIjp7Il9pZCI6IjYyMzQ4YzJkYTc1ZDE1MDAxOGMyYjgxMyIsInVzZXJuYW1lIjoiOTA4MjgwNDEyMSIsImZpcnN0TmFtZSI6IkJ1c2hyYSIsImxhc3ROYW1lIjoiQ2hhdWRoYXJ5Iiwib3JnYW5pemF0aW9uIjp7Il9pZCI6IjVlYjM5M2VlOTVmYWI3NDY4YTc5ZDE4OSIsIndlYnNpdGUiOiJwaHlzaWNzd2FsbGFoLmNvbSIsIm5hbWUiOiJQaHlzaWNzd2FsbGFoIn0sImVtYWlsIjoiYnVzaHJhcXVyZXNoaTU0NUBnbWFpbC5jb20iLCJyb2xlcyI6WyI1YjI3YmQ5NjU4NDJmOTUwYTc3OGM2ZWYiLCI1Y2M5NWEyZThiZGU0ZDY2ZGU0MDBiMzciXSwiY291bnRyeUdyb3VwIjoiSU4iLCJ0eXBlIjoiVVNFUiJ9LCJpYXQiOjE3Njk4NDU4NjJ9.HdIfm7Qp_cIphd4U3eGyoylIG5xcEmUfZQFo1v1ly6I",
+    "batches": [
+      {
+        "batchId": "6561e71925e823001802517f",
+        "name": "Prachand NEET 2024"
+      },
+      {
+        "batchId": "67378114c31df6c64863f0ed",
+        "name": "Prachand NEET 2025"
+      },
+      {
+        "batchId": "66d1f22e920a7900189c7c56",
+        "name": "NEET Mind Map 2025"
+      },
+      {
+        "batchId": "64b7910f6f7a1c0018c94a20",
+        "name": "NCERT Line by Line (YAKEEN YT)"
+      },
+      {
+        "batchId": "66b72bd5ff8b6500185100c1",
+        "name": "NCERT Line by Line 2025"
+      },
+      {
+        "batchId": "65c0d33029e3dd00181b1df9",
+        "name": "UMMEED NEET 2024"
+      },
+      {
+        "batchId": "624fd5d494de1c0011c3b3a4",
+        "name": "Umeed 2.0"
+      },
+      {
+        "batchId": "6098dae69ca64b0018b1d4a9",
+        "name": "NEET Umeed"
+      },
+      {
+        "batchId": "6229aba1c906350011f5b73b",
+        "name": "for JEE Advanced"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db4662947ec04b7d68a65",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NjIuNjg2LCJkYXRhIjp7Il9pZCI6IjYyY2U1YjI1Yzk2NmIxMDAxODgyNjFhMSIsInVzZXJuYW1lIjoiNjIwNzM2MjU3MSIsImZpcnN0TmFtZSI6IlJpdGlrIiwibGFzdE5hbWUiOiJzYWgiLCJvcmdhbml6YXRpb24iOnsiX2lkIjoiNWViMzkzZWU5NWZhYjc0NjhhNzlkMTg5Iiwid2Vic2l0ZSI6InBoeXNpY3N3YWxsYWguY29tIiwibmFtZSI6IlBoeXNpY3N3YWxsYWgifSwiZW1haWwiOiJyaXRpa3NoYWgwOEBnbWFpbC5jb20iLCJyb2xlcyI6WyI1YjI3YmQ5NjU4NDJmOTUwYTc3OGM2ZWYiXSwiY291bnRyeUdyb3VwIjoiSU4iLCJvbmVSb2xlcyI6W10sInR5cGUiOiJVU0VSIn0sImlhdCI6MTc2OTg0NTg2Mn0.-DdfSOj5fLEDtikXRjIqvEIAnaQbBb6Xs3rS29qpDyI",
+    "batches": [
+      {
+        "batchId": "671f5ea96059088394262c30",
+        "name": "Manzil JEE 2025"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db4676503d3be6655689a",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NjMuNDEyLCJkYXRhIjp7Il9pZCI6IjY2YmYwNDdiZDRiNWI3MzBiMGI1NTQyNiIsInVzZXJuYW1lIjoiOTU1Nzc5MTg4NCIsImZpcnN0TmFtZSI6IkFiaGF5IiwibGFzdE5hbWUiOiJTaW5naCIsIm9yZ2FuaXphdGlvbiI6eyJfaWQiOiI1ZWIzOTNlZTk1ZmFiNzQ2OGE3OWQxODkiLCJ3ZWJzaXRlIjoicGh5c2ljc3dhbGxhaC5jb20iLCJuYW1lIjoiUGh5c2ljc3dhbGxhaCJ9LCJlbWFpbCI6InByYWtoYXJnYXV0YW05MTBAZ21haWwuY29tIiwicm9sZXMiOlsiNWIyN2JkOTY1ODQyZjk1MGE3NzhjNmVmIl0sImNvdW50cnlHcm91cCI6IklOIiwib25lUm9sZXMiOltdLCJ0eXBlIjoiVVNFUiJ9LCJpYXQiOjE3Njk4NDU4NjN9.Lk9gj5neta7qMT4w4b8NiEFN-zYaGVZJYZOE5fuISfk",
+    "batches": [
+      {
+        "batchId": "695b6fc97db3d9ea05d33b3f",
+        "name": "VIJETA 2026"
+      },
+      {
+        "batchId": "686637094f9f7e699b57870d",
+        "name": "NCERT Wallah YT Free Series"
+      },
+      {
+        "batchId": "68a409def9016801263cf2b9",
+        "name": "Class 12th Half Yearly Marathon 2026"
+      },
+      {
+        "batchId": "67b8814b91b657b8f9e141b6",
+        "name": "SAT\u00ae Test Prep: Practice & Study Guide"
+      },
+      {
+        "batchId": "67e3a9ef31b071f8e0c6f0fa",
+        "name": "Bridge Course KCET- For PU 2"
+      },
+      {
+        "batchId": "671f5ea96059088394262c30",
+        "name": "Manzil JEE 2025"
+      },
+      {
+        "batchId": "65d8a02173443900186869b2",
+        "name": "Uday 2025"
+      },
+      {
+        "batchId": "66a4c326f2c8470018eab175",
+        "name": "JEE Revision Express"
+      },
+      {
+        "batchId": "6617807f8d04ec0018e43dc3",
+        "name": "Gujarati JEE 10th to 11th Bridge Course"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db467b121d21179718b4d",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NjMuODE2LCJkYXRhIjp7Il9pZCI6IjY2MDk1NmFmNWU5OTViYWE2N2UwMDQzYiIsInVzZXJuYW1lIjoiNzYwMzAwNjg5NiIsImZpcnN0TmFtZSI6IklzaGFuIiwibGFzdE5hbWUiOiJTYWhhIiwib3JnYW5pemF0aW9uIjp7Il9pZCI6IjVlYjM5M2VlOTVmYWI3NDY4YTc5ZDE4OSIsIndlYnNpdGUiOiJwaHlzaWNzd2FsbGFoLmNvbSIsIm5hbWUiOiJQaHlzaWNzd2FsbGFoIn0sImVtYWlsIjpudWxsLCJyb2xlcyI6WyI1YjI3YmQ5NjU4NDJmOTUwYTc3OGM2ZWYiXSwiY291bnRyeUdyb3VwIjoiSU4iLCJvbmVSb2xlcyI6W10sInR5cGUiOiJVU0VSIn0sImlhdCI6MTc2OTg0NTg2M30.pj1CfXnriCLxzeuLTWU6i4f2ystw2Op59Xa1hn6_9Dw",
+    "batches": [
+      {
+        "batchId": "671f5ea96059088394262c30",
+        "name": "Manzil JEE 2025"
+      },
+      {
+        "batchId": "688b05f38eed8a3b6a7b14cb",
+        "name": "Complete Mathematics by Sachin Sir"
+      },
+      {
+        "batchId": "65dedd733a57db0018ddd58e",
+        "name": "Arjuna JEE 4.0 2025"
+      },
+      {
+        "batchId": "6692357d2c88ad001824129d",
+        "name": "Arjuna JEE AIR 2026 Recorded"
+      },
+      {
+        "batchId": "65dedbbd16156900189fdeec",
+        "name": "Arjuna JEE 3.0 2025"
+      },
+      {
+        "batchId": "661a721731ef700018e5d1a9",
+        "name": "Rajwant Sir Special"
+      },
+      {
+        "batchId": "65ddb1c691431f0018a11f4a",
+        "name": "Arjuna JEE 2.0 2025"
+      },
+      {
+        "batchId": "65d86238cdb6ea00181bdcfe",
+        "name": "Arjuna JEE 2025"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db4686503d3be665568c5",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NjQuMjE4LCJkYXRhIjp7Il9pZCI6IjYwZDFjZDRhOWI5OGRmMDAxMWE2ZjA1YyIsInVzZXJuYW1lIjoiOTg2MTU1MjE4OSIsImZpcnN0TmFtZSI6Ik9tbSIsImxhc3ROYW1lIjoiUHJha2FzaCBQcmFkaGFuIiwib3JnYW5pemF0aW9uIjp7Il9pZCI6IjVlYjM5M2VlOTVmYWI3NDY4YTc5ZDE4OSIsIndlYnNpdGUiOiJwaHlzaWNzd2FsbGFoLmNvbSIsIm5hbWUiOiJQaHlzaWNzd2FsbGFoIn0sImVtYWlsIjoib21tcHJhZGhhbjEyNEBnbWFpbC5jb20iLCJyb2xlcyI6WyI1YjI3YmQ5NjU4NDJmOTUwYTc3OGM2ZWYiXSwiY291bnRyeUdyb3VwIjoiSU4iLCJvbmVSb2xlcyI6W10sInR5cGUiOiJVU0VSIn0sImlhdCI6MTc2OTg0NTg2NH0.45UCatRi6P2Wq2zQOWPBogPhsKbWnMZMwqfNQNeAZZ8",
+    "batches": [
+      {
+        "batchId": "671f543e668f2c291dec4472",
+        "name": "Crash Course GATE 2025 Civil Engineering"
+      },
+      {
+        "batchId": "654b31fd3d24f600180fe031",
+        "name": "MANZIL for JEE 2024"
+      },
+      {
+        "batchId": "60ad14e75456a90011fdc4ca",
+        "name": "JEE Manzil"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db468f71b53e8bdf37447",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NjQuNjEyLCJkYXRhIjp7Il9pZCI6IjY1ZmVlYTVhM2YzMjNhNzQ4MGNiZDFkZSIsInVzZXJuYW1lIjoiOTEyMDUyNjM5MCIsImZpcnN0TmFtZSI6Ik9tIiwibGFzdE5hbWUiOiJLdW1hciIsIm9yZ2FuaXphdGlvbiI6eyJfaWQiOiI1ZWIzOTNlZTk1ZmFiNzQ2OGE3OWQxODkiLCJ3ZWJzaXRlIjoicGh5c2ljc3dhbGxhaC5jb20iLCJuYW1lIjoiUGh5c2ljc3dhbGxhaCJ9LCJyb2xlcyI6WyI1YjI3YmQ5NjU4NDJmOTUwYTc3OGM2ZWYiXSwiY291bnRyeUdyb3VwIjoiSU4iLCJvbmVSb2xlcyI6W10sInR5cGUiOiJVU0VSIn0sImlhdCI6MTc2OTg0NTg2NH0.qPhFBpGcqsoj05rVmsKUQK0rJrYfM_2USDnPlZl1H-E",
+    "batches": [
+      {
+        "batchId": "68663baacecf410b028b6623",
+        "name": "Uday YT Free Series"
+      },
+      {
+        "batchId": "67878742d7196ec0edbb6344",
+        "name": "Alakh Pandey - Class 10th Batch"
+      },
+      {
+        "batchId": "6741b10b343569be54c5b24e",
+        "name": "Warrior 2025"
+      },
+      {
+        "batchId": "6687e5379250ad00189fb981",
+        "name": "Hope (Backlog Series)"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db469b121d21179718b79",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NjUuMDQyLCJkYXRhIjp7Il9pZCI6IjY0NmYyMGFlMTI4ZGFlMDAxODI1MDVkMCIsInVzZXJuYW1lIjoiNjIwNjEzNDczMSIsImZpcnN0TmFtZSI6IlBhd2FuIEt1bWFyIiwibGFzdE5hbWUiOiIiLCJvcmdhbml6YXRpb24iOnsiX2lkIjoiNWViMzkzZWU5NWZhYjc0NjhhNzlkMTg5Iiwid2Vic2l0ZSI6InBoeXNpY3N3YWxsYWguY29tIiwibmFtZSI6IlBoeXNpY3N3YWxsYWgifSwiZW1haWwiOm51bGwsInJvbGVzIjpbIjViMjdiZDk2NTg0MmY5NTBhNzc4YzZlZiJdLCJjb3VudHJ5R3JvdXAiOiJJTiIsIm9uZVJvbGVzIjpbXSwidHlwZSI6IlVTRVIifSwiaWF0IjoxNzY5ODQ1ODY1fQ.mJnYexs3BmbJOqCPvqg4N3JYBJug9wOU4AYD9Pf0EOs",
+    "batches": [
+      {
+        "batchId": "654b31fd3d24f600180fe031",
+        "name": "MANZIL for JEE 2024"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db469f71b53e8bdf3746b",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NjUuNDU5LCJkYXRhIjp7Il9pZCI6IjY3OTM1OTMxYzJiMGY3ODM0MTlkODM2ZCIsInVzZXJuYW1lIjoiNzM3OTAzODA1NiIsImZpcnN0TmFtZSI6IkFheWFuc2hpIiwibGFzdE5hbWUiOiJDaGF1aGFuIiwib3JnYW5pemF0aW9uIjp7Il9pZCI6IjVlYjM5M2VlOTVmYWI3NDY4YTc5ZDE4OSIsIndlYnNpdGUiOiJwaHlzaWNzd2FsbGFoLmNvbSIsIm5hbWUiOiJQaHlzaWNzd2FsbGFoIn0sImVtYWlsIjoidmlzaHdhcmF2aXJhanB1dEBnbWFpbC5jb20iLCJyb2xlcyI6WyI1YjI3YmQ5NjU4NDJmOTUwYTc3OGM2ZWYiXSwiY291bnRyeUdyb3VwIjoiSU4iLCJvbmVSb2xlcyI6W10sInR5cGUiOiJVU0VSIn0sImlhdCI6MTc2OTg0NTg2NX0._V9D3Il0-Q2SNiHHmLhKGnUEFWCr17gMjcRp2dds5Xw",
+    "batches": [
+      {
+        "batchId": "695f53c79bb0e891e6615964",
+        "name": "Warrior 2026"
+      },
+      {
+        "batchId": "68848ab718bd52856c1d6253",
+        "name": "Samridhi Sharma Class 9 & 10"
+      },
+      {
+        "batchId": "68c4ff87e286cf175eeb8c8e",
+        "name": "PW Champions League"
+      },
+      {
+        "batchId": "6774f509fd80ba9fd582cb96",
+        "name": "PARISHRAM 2026 (Class 12th)"
+      },
+      {
+        "batchId": "6789f904f69b15eb632db640",
+        "name": "Lakshya JEE 2.0 2026"
+      },
+      {
+        "batchId": "6789f905bafc44e374f4c081",
+        "name": "Lakshya JEE 3.0 2026"
+      },
+      {
+        "batchId": "67e3a9ef31b071f8e0c6f0fa",
+        "name": "Bridge Course KCET- For PU 2"
+      },
+      {
+        "batchId": "67dc6d56de20619f04940f55",
+        "name": "\u092e\u0939\u093e\u092e\u0902\u0925\u0928 (MahaManthan) JEE 2025"
+      },
+      {
+        "batchId": "65dc6fbabb55350018d555b7",
+        "name": "Lakshya JEE 2026"
+      },
+      {
+        "batchId": "67825434f7464b67984c0735",
+        "name": "Lakshya JEE AIR O1 (2026) Recorded"
+      },
+      {
+        "batchId": "65ddb1c691431f0018a11f4a",
+        "name": "Arjuna JEE 2.0 2025"
+      },
+      {
+        "batchId": "65d86238cdb6ea00181bdcfe",
+        "name": "Arjuna JEE 2025"
+      },
+      {
+        "batchId": "67d16f420742bf12fdf199c0",
+        "name": "JEE Bridge Course 2026"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db46abc35a212c65600e2",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NjYuMDE2LCJkYXRhIjp7Il9pZCI6IjVlY2UwYzIwMmJhNmYwNGFjYmY3NTdkYSIsInVzZXJuYW1lIjoiODQ0ODEwNTI1MSIsImZpcnN0TmFtZSI6IkFuaWtldCIsImxhc3ROYW1lIjoiS3VtYXIiLCJvcmdhbml6YXRpb24iOnsiX2lkIjoiNWViMzkzZWU5NWZhYjc0NjhhNzlkMTg5Iiwid2Vic2l0ZSI6InBoeXNpY3N3YWxsYWguY29tIiwibmFtZSI6IlBoeXNpY3N3YWxsYWgifSwiZW1haWwiOm51bGwsInJvbGVzIjpbIjViMjdiZDk2NTg0MmY5NTBhNzc4YzZlZiIsIjVjYzk1YTJlOGJkZTRkNjZkZTQwMGIzNyJdLCJjb3VudHJ5R3JvdXAiOiJJTiIsInR5cGUiOiJVU0VSIn0sImlhdCI6MTc2OTg0NTg2Nn0.qqknbLvUhqklQOY0S4zJmJ7X3VK_-Z6JZjZtUhyEZKQ",
+    "batches": [
+      {
+        "batchId": "67878742d7196ec0edbb6344",
+        "name": "Alakh Pandey - Class 10th Batch"
+      },
+      {
+        "batchId": "6687e5379250ad00189fb981",
+        "name": "Hope (Backlog Series)"
+      },
+      {
+        "batchId": "6741b10b343569be54c5b24e",
+        "name": "Warrior 2025"
+      },
+      {
+        "batchId": "66b4576095473c0018a47880",
+        "name": "Ace Series"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db46acab70f4b4d97213f",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NjYuNDgyLCJkYXRhIjp7Il9pZCI6IjYxMDBmMTc1NDZmMzQ4MDAxMTIzODg4YiIsInVzZXJuYW1lIjoiOTUwNzA4MzUxMSIsImZpcnN0TmFtZSI6IlNhdHlhbWt1bWFyIiwibGFzdE5hbWUiOiIiLCJvcmdhbml6YXRpb24iOnsiX2lkIjoiNWViMzkzZWU5NWZhYjc0NjhhNzlkMTg5Iiwid2Vic2l0ZSI6InBoeXNpY3N3YWxsYWguY29tIiwibmFtZSI6IlBoeXNpY3N3YWxsYWgifSwiZW1haWwiOiJzYXR5YW1rNzYyNTRAZ21haWwuY29tIiwicm9sZXMiOlsiNWIyN2JkOTY1ODQyZjk1MGE3NzhjNmVmIl0sImNvdW50cnlHcm91cCI6IklOIiwib25lUm9sZXMiOltdLCJ0eXBlIjoiVVNFUiJ9LCJpYXQiOjE3Njk4NDU4NjZ9.Gi52DTpVDMKJZYW5VFTsalJpJIRO7INVv1kihInLYXY",
+    "batches": [
+      {
+        "batchId": "6229aba1c906350011f5b73b",
+        "name": "for JEE Advanced"
+      },
+      {
+        "batchId": "60ad14e75456a90011fdc4ca",
+        "name": "JEE Manzil"
+      }
+    ]
+  },
+  {
+    "tokenId": "697db46ab121d21179718bc6",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0NTA2NjYuODgzLCJkYXRhIjp7Il9pZCI6IjYyYjFlNGJhMTI5NzI0MDAxOGE5MjBiOSIsInVzZXJuYW1lIjoiOTM4OTM2MzE0MCIsImZpcnN0TmFtZSI6Ik1hbnRoYW4gU2hhcm1hIiwibGFzdE5hbWUiOiJTaGFybWEiLCJvcmdhbml6YXRpb24iOnsiX2lkIjoiNWViMzkzZWU5NWZhYjc0NjhhNzlkMTg5Iiwid2Vic2l0ZSI6InBoeXNpY3N3YWxsYWguY29tIiwibmFtZSI6IlBoeXNpY3N3YWxsYWgifSwiZW1haWwiOiJwYW5kaXRrcmlpc2huYWEyN0BnbWFpbC5jb20iLCJyb2xlcyI6WyI1YjI3YmQ5NjU4NDJmOTUwYTc3OGM2ZWYiXSwiY291bnRyeUdyb3VwIjoiSU4iLCJvbmVSb2xlcyI6W10sInR5cGUiOiJVU0VSIn0sImlhdCI6MTc2OTg0NTg2Nn0.rVQ9WwvnoaNRcTUfbr6ADRYLOP0VrnerFnySJcgDIQ8",
+    "batches": [
+      {
+        "batchId": "6821d842a4b2d11499c02d12",
+        "name": "Adhigam 2026 Class 12th (UP BOARD) series"
+      },
+      {
+        "batchId": "69201461146facec0260841d",
+        "name": "Jee Ultimate Crash Course Reloaded 2026"
+      },
+      {
+        "batchId": "678a39b18809c4305f2bf1a0",
+        "name": "JEE Ultimate Crash Course 2026"
+      },
+      {
+        "batchId": "689de52fcb14e81df50153b1",
+        "name": "NSAT 2025 (12th JEE)"
+      },
+      {
+        "batchId": "671f5ea96059088394262c30",
+        "name": "Manzil JEE 2025"
+      },
+      {
+        "batchId": "64d23a31fa04f200188b5699",
+        "name": "NSEC"
+      }
+    ]
+  }
+]

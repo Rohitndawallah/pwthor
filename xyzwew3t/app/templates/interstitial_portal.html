@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Step {{ step }} of 5 | EduPrep Portal</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        body { font-family: 'Roboto', sans-serif; background-color: #f4f6f9; color: #333; padding-top: 60px; }
+        
+        /* Fixed Header */
+        .step-header { background: #e74c3c; color: white; position: fixed; top: 0; width: 100%; z-index: 1000; padding: 10px; text-align: center; font-weight: bold; box-shadow: 0 2px 5px rgba(0,0,0,0.2); }
+        
+        /* Popup Styles */
+        #popup-overlay {
+            position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+            background: rgba(0,0,0,0.85); z-index: 9999;
+            display: flex; justify-content: center; align-items: center;
+            flex-direction: column;
+        }
+        .popup-content {
+            background: white; padding: 20px; border-radius: 8px;
+            max-width: 90%; width: 400px; text-align: center;
+            box-shadow: 0 0 20px rgba(255,255,255,0.2);
+        }
+        .popup-note { color: #e74c3c; font-weight: bold; font-size: 1.1rem; margin-bottom: 15px; }
+        .popup-timer { margin-top: 10px; color: #7f8c8d; font-size: 0.9rem; }
+        
+        /* Standard Styles */
+        .navbar { background-color: #2c3e50; }
+        .quiz-container { background: #fffdf0; border: 2px dashed #f1c40f; padding: 30px; margin: 20px 0; border-radius: 12px; display: none; }
+        .continue-section { margin-top: 50px; padding: 40px; text-align: center; display: none; }
+        .content-block { background: white; padding: 25px; margin-bottom: 25px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); border-left: 5px solid #3498db; }
+        .ad-placeholder { background: #ebf2f7; border: 1px solid #d1d9e0; padding: 15px; margin: 20px 0; text-align: center; border-radius: 5px; min-height: 250px; display: flex; align-items: center; justify-content: center; color: #7f8c8d; font-size: 0.9rem; text-transform: uppercase; letter-spacing: 1px; }
+    </style>
+</head>
+<body>
+
+    <div id="popup-overlay">
+        <div class="popup-content">
+            <div class="popup-note">
+                <i class="fas fa-exclamation-circle me-2"></i>Click below image ads to cancel it
+            </div>
+            <div class="ad-placeholder" style="min-height: 250px; background: #fafafa;">
+                <a href="https://google.com" target="_blank" style="text-decoration: none; color: inherit; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">
+                    [POPUP ADVERTISEMENT - CLICK TO OPEN]
+                </a>
+            </div>
+            <div class="popup-timer">
+                Auto-closing in <span id="popupTimer">20</span>s...
+            </div>
+        </div>
+    </div>
+
+    <div class="step-header">
+        STEP {{ step }} / 5: PLEASE WAIT <span id="timer">15</span> SECONDS
+    </div>
+
+    <nav class="navbar navbar-dark">
+        <div class="container"><a class="navbar-brand fw-bold" href="#">EDUPREP PORTAL</a></div>
+    </nav>
+
+    <div class="container my-5">
+        <div class="row">
+            <div class="col-lg-8">
+                
+                <div class="ad-placeholder">Top Banner Advertisement</div>
+
+                <div class="content-block">
+                    <h4 class="fw-bold">1. Physics: Mechanics Mastery</h4>
+                    <p>Physics forms the backbone of engineering entrance exams. The unit on Mechanics, covering Newton's Laws, Work-Energy, and Rotational Motion, accounts for nearly 30% of the paper. Mastering free-body diagrams is essential for solving complex problems involving friction and pulleys.</p>
+                </div>
+
+                <div class="content-block">
+                    <h4 class="fw-bold">2. Chemistry: The Scoring Subject</h4>
+                    <p>Chemistry is often the quickest section to solve. In Inorganic Chemistry, focusing on the p-block and d-block elements yields high returns. Memorizing trends in the periodic table and exceptions to ionization energy rules is critical for accuracy.</p>
+                </div>
+
+                <div class="ad-placeholder">In-Article Ad 1</div>
+
+                <div class="content-block">
+                    <h4 class="fw-bold">3. Mathematics: Calculus</h4>
+                    <p>Calculus (Differential and Integral) is unavoidable in JEE and state exams. Concepts of limits, continuity, and differentiability must be crystal clear. Integration often requires recognizing specific patterns, so practice standard forms repeatedly.</p>
+                </div>
+
+                <div class="content-block">
+                    <h4 class="fw-bold">4. Biology: Human Physiology</h4>
+                    <p>For NEET aspirants, Human Physiology is a goldmine. Chapters on Digestion, Breathing, and Circulation are diagram-heavy. Questions are frequently asked about enzyme functions, lung volumes, and the cardiac cycle.</p>
+                </div>
+
+                <div class="ad-placeholder">In-Article Ad 2</div>
+
+                <div class="content-block">
+                    <h4 class="fw-bold">5. History: Modern India</h4>
+                    <p>For CDS and UPSC exams, the Freedom Struggle (1857-1947) is the most critical period. Understand the chronology of events like the Non-Cooperation Movement, Civil Disobedience, and the Cabinet Mission Plan.</p>
+                </div>
+
+                <div class="content-block">
+                    <h4 class="fw-bold">6. Geography: Physical Features</h4>
+                    <p>Indian Geography covers the Himalayas, River Systems, and Monsoons. Map-based questions are common, asking candidates to locate mountain passes, river tributaries, or soil types specific to regions.</p>
+                </div>
+
+                <div class="ad-placeholder">In-Article Ad 3</div>
+
+                <div class="content-block">
+                    <h4 class="fw-bold">7. English: Grammar & Usage</h4>
+                    <p>Proficiency in English is tested via Spotting Errors and Reading Comprehension. Focus on Subject-Verb Agreement, Prepositions, and Tenses. Reading editorials daily improves both vocabulary and reading speed.</p>
+                </div>
+
+                <div class="content-block">
+                    <h4 class="fw-bold">8. Logical Reasoning</h4>
+                    <p>This section tests analytical skills. Topics like Coding-Decoding, Blood Relations, and Syllogisms are standard. Using Venn diagrams for syllogisms helps in avoiding common logical fallacies.</p>
+                </div>
+
+                <div class="ad-placeholder">In-Article Ad 4</div>
+
+                <div class="content-block">
+                    <h4 class="fw-bold">9. Current Affairs 2026</h4>
+                    <p>Stay updated with the latest summits (G20, BRICS), sports awards, and government schemes. For defense aspirants, knowledge of recent defense acquisitions, joint military exercises, and rank structures is mandatory.</p>
+                </div>
+
+                <div class="content-block">
+                    <h4 class="fw-bold">10. Computer Awareness</h4>
+                    <p>Basic knowledge of hardware, software, MS Office, and Internet protocols is required for banking and SSC exams. Understand terms like RAM, ROM, IP Address, and basic keyboard shortcuts.</p>
+                </div>
+
+                <div class="ad-placeholder">In-Article Ad 5</div>
+
+                <div class="content-block">
+                    <h4 class="fw-bold">11. Static GK</h4>
+                    <p>Static GK includes National Parks, Wildlife Sanctuaries, Currencies, and Capitals. This information does not change and can be memorized for quick marks in the General Awareness section.</p>
+                </div>
+
+                <div class="content-block">
+                    <h4 class="fw-bold">12. Final Exam Strategy</h4>
+                    <p>Time management is key. Allocate time based on your strengths. Attempt the easiest questions first to build confidence. Avoid wild guessing in exams with negative marking to preserve your rank.</p>
+                </div>
+
+                <div id="verificationArea">
+                    <div class="quiz-container text-center" id="quizBox">
+                        <h3 class="fw-bold"><i class="fas fa-user-shield me-2"></i>Human Verification</h3>
+                        <p class="lead">To enable the continue button, solve: <strong>{{ n1 }} + {{ n2 }} = ?</strong></p>
+                        <div class="mb-3">
+                            {% for opt in options %}
+                                <button type="button" class="btn btn-outline-primary m-1 px-4 fw-bold" onclick="selectAnswer(this, '{{ opt }}')">{{ opt }}</button>
+                            {% endfor %}
+                        </div>
+                        <p class="text-muted small">Scroll down to click the button after selecting your answer.</p>
+                    </div>
+
+                    <div class="continue-section" id="continueBox">
+                        <div class="ad-placeholder">Anchor Ad Placeholder</div>
+                        <form method="POST">
+                            <input type="hidden" name="correct" value="{{ correct }}">
+                            <input type="hidden" name="answer" id="userAnswer">
+                            <button type="submit" id="continueBtn" class="btn btn-success btn-lg px-5 py-3 shadow-lg fw-bold" disabled>
+                                CONTINUE TO {% if step < 5 %}STEP {{ step + 1 }}{% else %}FINAL DESTINATION{% endif %}
+                            </button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4">
+                <div class="content-block text-center">
+                    <h5 class="fw-bold">Timer Status</h5>
+                    <div class="d-inline-block bg-dark text-white rounded px-3 py-2 fw-bold" id="timerDisplay">15s</div>
+                </div>
+
+                <div class="ad-placeholder" style="height: 600px;">Sidebar Skyscraper Ad</div>
+
+                <div class="content-block">
+                    <h5 class="fw-bold">Quick Links</h5>
+                    <ul class="list-unstyled">
+                        <li class="mb-2"><i class="fas fa-arrow-right me-2 text-primary"></i>Result 2026</li>
+                        <li class="mb-2"><i class="fas fa-arrow-right me-2 text-primary"></i>Cut-off Analysis</li>
+                        <li class="mb-2"><i class="fas fa-arrow-right me-2 text-primary"></i>Admit Card</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="footer bg-dark text-white py-4 mt-5">
+        <div class="container text-center">
+            <p class="mb-0">&copy; 2026 EduPrep Portal. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script>
+        // --- Timer Configuration ---
+        const mainWaitTime = 15; // Main content timer
+        const popupExtraWait = 5; // Extra wait for popup
+        let totalPopupTime = mainWaitTime + popupExtraWait;
+        let mainTimer = mainWaitTime;
+
+        const timerSpan = document.getElementById('timer');
+        const timerDiv = document.getElementById('timerDisplay');
+        const popupTimerSpan = document.getElementById('popupTimer');
+        const popupOverlay = document.getElementById('popup-overlay');
+        const quizBox = document.getElementById('quizBox');
+        const continueBox = document.getElementById('continueBox');
+
+        // Main Interval
+        const interval = setInterval(() => {
+            // Update Main Timer Display (stops at 0)
+            if (mainTimer > 0) {
+                mainTimer--;
+                timerSpan.innerText = mainTimer;
+                timerDiv.innerText = mainTimer + 's';
+            } else {
+                timerDiv.innerText = "WAITING...";
+                timerDiv.style.background = "#f39c12"; // Orange for waiting phase
+            }
+
+            // Update Popup Timer Display
+            if (totalPopupTime > 0) {
+                totalPopupTime--;
+                popupTimerSpan.innerText = totalPopupTime;
+            } else {
+                // Time is up!
+                clearInterval(interval);
+                
+                // 1. Hide Popup
+                popupOverlay.style.display = 'none';
+                
+                // 2. Show Content
+                quizBox.style.display = 'block';
+                continueBox.style.display = 'block';
+                
+                // 3. Update Status
+                timerDiv.innerText = "READY";
+                timerDiv.style.background = "#27ae60"; // Green for ready
+            }
+        }, 1000);
+
+        function selectAnswer(btn, value) {
+            document.querySelectorAll('.quiz-container .btn').forEach(b => {
+                b.classList.remove('btn-primary');
+                b.classList.add('btn-outline-primary');
+            });
+            btn.classList.remove('btn-outline-primary');
+            btn.classList.add('btn-primary');
+            document.getElementById('userAnswer').value = value;
+            document.getElementById('continueBtn').disabled = false;
+        }
+    </script>
+</body>
+</html>

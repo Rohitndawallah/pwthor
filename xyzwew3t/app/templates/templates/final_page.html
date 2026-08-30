@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h1>Almost there...</h1>
+    <p>Your link will be ready in <span id="timer">10</span> seconds.</p>
+    <a id="getlink" href="{{ final_url }}" style="display:none;">GET LINK</a>
+
+    <script>
+        let count = 10;
+        const timer = setInterval(() => {
+            count--;
+            document.getElementById('timer').innerText = count;
+            if (count <= 0) {
+                clearInterval(timer);
+                document.getElementById('getlink').style.display = 'block';
+            }
+        }, 1000);
+    </script>
+</body>
+</html>
